@@ -1,6 +1,6 @@
 # Family Food Festival
 
-A static family menu, recipe collection and weekly shopping planner.
+A Finnish static family menu, recipe collection and weekly shopping planner.
 
 Live site: https://ahatala.github.io/websites/
 
@@ -16,7 +16,7 @@ There are 30 recipe pages, three country pages, three shopping pages and a home 
 
 ## Editing
 
-1. Edit recipes and ingredient quantities in `menu.py`.
+1. Edit ingredient quantities and the base recipes in `menu.py`. Edit Finnish titles, descriptions, methods and shopping notes in `translations_fi.py`.
 2. Edit Finnish ingredient names, product examples and pack guidance in `shopping.py`.
 3. Edit templates in `build.py`, styles in `assets/style.css` and behavior in `assets/app.js`.
 4. Run `python3 build.py`, then `python3 validate.py`.

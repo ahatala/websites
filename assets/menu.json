@@ -5,11 +5,11 @@
       "week": "greece",
       "day": "Monday",
       "kind": "Dinner",
-      "title": "Souvlaki night",
-      "desc": "Warm pitas, lemony chicken, golden halloumi and a table full of toppings.",
+      "title": "Kana- ja halloumisouvlakit",
+      "desc": "Pitaleipiä, tsatsikia ja salaattikasviksia kana- tai halloumivartaiden kanssa.",
       "servings": 4,
-      "time": "40 min + 20 min marinating",
-      "split": "3 chicken + 1 halloumi",
+      "time": "40 min + marinointi 20 min",
+      "split": "3 kana-annosta + 1 halloumiannos",
       "ingredients": [
         {
           "key": "chicken",
@@ -65,10 +65,10 @@
         }
       ],
       "steps": [
-        "Cube the chicken. Mix olive oil, half the lemon juice, 1 crushed garlic clove, oregano, half the salt and the pepper. Reserve one quarter in a clean bowl for the halloumi; coat the chicken in the rest and refrigerate for 20 minutes.",
-        "Grate 150 g cucumber, squeeze dry and mix with the yogurt, remaining garlic, remaining lemon juice and salt to make tzatziki. Slice the remaining cucumber, tomatoes and onion.",
-        "Thread chicken onto skewers (soak wooden skewers first). Grill or pan-fry over medium-high heat for 10–14 minutes, turning, until the centre reaches 75°C for 30 seconds.",
-        "Cut halloumi into thick pieces, coat in its reserved marinade and cook in a separate pan for 2–3 minutes per side. Warm the pitas and assemble with tzatziki and vegetables."
+        "Kuutioi broileri. Sekoita oliiviöljy, puolet sitruunamehusta, yksi murskattu valkosipulinkynsi, oregano, puolet suolasta ja mustapippuri. Ota neljännes marinadista puhtaaseen kulhoon halloumia varten. Sekoita broileri loppuun marinadiin ja anna maustua jääkaapissa 20 minuuttia.",
+        "Raasta 150 g kurkkua ja purista neste pois. Sekoita raaste jogurttiin. Lisää loput valkosipulista, sitruunamehusta ja suolasta. Viipaloi loppu kurkku, tomaatit ja punasipuli.",
+        "Pujota broileri vartaisiin. Liota puiset varrastikut ensin. Grillaa tai paista keskilämmöllä tai hieman kuumemmalla pannulla 10–14 minuuttia välillä kääntäen. Broilerin sisälämpötilan tulee olla vähintään 75 °C 30 sekunnin ajan.",
+        "Leikkaa halloumi paksuiksi paloiksi ja sekoita omaan marinadiinsa. Paista erillisellä pannulla 2–3 minuuttia kummaltakin puolelta. Lämmitä pitaleivät ja täytä ne vartaiden sisällöllä, tsatsikilla ja kasviksilla."
       ],
       "note": ""
     },
@@ -77,11 +77,11 @@
       "week": "greece",
       "day": "Tuesday",
       "kind": "Dinner",
-      "title": "Spanakopita & Greek salad",
-      "desc": "A crackly spinach-and-feta pie for the whole table.",
+      "title": "Spanakopita ja kreikkalainen salaatti",
+      "desc": "Pinaatti-fetapiirakka filotaikinasta.",
       "servings": 4,
       "time": "65 min",
-      "split": "Meat-free for everyone",
+      "split": "Kasvisruoka kaikille",
       "ingredients": [
         {
           "key": "spinach",
@@ -141,10 +141,10 @@
         }
       ],
       "steps": [
-        "Heat the oven to 180°C fan. Thaw the spinach and squeeze it very dry. Chop the onion and soften in 15 ml oil for 8 minutes; let cool slightly.",
-        "Mix spinach, onion, 200 g crumbled feta, eggs, chopped dill, pepper and half the salt. Brush a roughly 20 × 25 cm dish with a little of 30 ml oil. Layer half the filo in it, brushing lightly between sheets. Keep unused filo under a damp towel.",
-        "Add the filling, cover with the remaining filo and brush with the rest of that 30 ml oil. Tuck in the edges, score the top into four portions and bake for 35–40 minutes until crisp and the filling is set.",
-        "Chop tomatoes, cucumber and red onion. Dress with the remaining 15 ml oil, lemon juice, oregano and salt. Top with the remaining 100 g feta and serve with the pie."
+        "Lämmitä kiertoilmauuni 180 asteeseen. Sulata pinaatti ja purista se mahdollisimman kuivaksi. Hienonna sipuli ja kuullota sitä 15 ml:ssa öljyä 8 minuuttia. Anna jäähtyä hieman.",
+        "Sekoita pinaatti, sipuli, 200 g murennettua fetaa, kananmunat, hienonnettu tilli, mustapippuri ja puolet suolasta. Varaa 30 ml öljyä vuoan ja taikinalevyjen voiteluun. Voitele noin 20 × 25 cm:n vuoka. Lado puolet filolevyistä vuokaan ja sivele kerrosten väliin hieman öljyä. Pidä käyttämättömät levyt kostean pyyhkeen alla.",
+        "Levitä täyte vuokaan ja peitä lopuilla filolevyillä. Voitele varatulla öljyllä, taita reunat sisään ja leikkaa pintaan kevyesti neljän annoksen rajat. Paista 35–40 minuuttia, kunnes pinta on rapea ja täyte hyytynyt.",
+        "Pilko tomaatit, kurkku ja punasipuli. Mausta jäljellä olevalla 15 ml:lla öljyä, sitruunamehulla, oreganolla ja lopulla suolalla. Lisää loput 100 g fetaa. Tarjoa piirakan kanssa."
       ],
       "note": ""
     },
@@ -153,11 +153,11 @@
       "week": "greece",
       "day": "Wednesday",
       "kind": "Dinner",
-      "title": "Fasolada",
-      "desc": "White beans, tomato and vegetables, with bread and feta.",
+      "title": "Fasolada-papukeitto",
+      "desc": "Valkopapu-kasviskeittoa, leipää ja fetaa.",
       "servings": 4,
       "time": "45 min",
-      "split": "Meat-free for everyone",
+      "split": "Kasvisruoka kaikille",
       "ingredients": [
         {
           "key": "whitebean",
@@ -217,23 +217,23 @@
         }
       ],
       "steps": [
-        "Dice the onion, carrots and celery. Soften in the olive oil in a large saucepan for 10 minutes. Add chopped garlic and stir for 1 minute.",
-        "Add tomatoes, drained beans, prepared vegetable stock, oregano and bay leaf. Bring to a simmer and cook gently for 25 minutes until the carrots are tender.",
-        "Mash a ladleful of beans against the side of the pan to thicken the soup. Remove the bay leaf. Season with salt and pepper, reducing the salt if the stock is already salty.",
-        "Warm the bread and serve with bowls of soup and crumbled feta on the side."
+        "Kuutioi sipuli, porkkanat ja selleri. Kuullota niitä oliiviöljyssä suuressa kattilassa 10 minuuttia. Lisää hienonnettu valkosipuli ja jatka minuutti.",
+        "Lisää tomaattimurska, valutetut pavut, kasvisliemi, oregano ja laakerinlehti. Keitä hiljalleen 25 minuuttia, kunnes porkkanat ovat pehmeitä.",
+        "Murskaa kauhallinen papuja kattilan reunaa vasten, jotta keitto sakenee hieman. Poista laakerinlehti. Mausta suolalla ja mustapippurilla. Vähennä suolaa, jos liemi on jo suolainen.",
+        "Lämmitä leipä ja tarjoa keiton sekä erikseen murennetun fetan kanssa."
       ],
-      "note": "720 g drained beans is about three 400 g tins; check the drained weights."
+      "note": "720 g valutettuja papuja vastaa noin kolmea 400 g:n säilyketölkkiä. Tarkista valutettu paino pakkauksesta."
     },
     {
       "id": "giouvetsi",
       "week": "greece",
       "day": "Thursday",
       "kind": "Dinner",
-      "title": "Beef giouvetsi",
-      "desc": "Slow-cooked beef and tomato orzo, just for the three attending.",
+      "title": "Naudanliha-giouvetsi",
+      "desc": "Pitkään haudutettua naudanlihaa ja orzoa tomaattikastikkeessa.",
       "servings": 3,
-      "time": "2 hr 30 min",
-      "split": "3 beef portions · meat-free diner away",
+      "time": "2 h 30 min",
+      "split": "3 liha-annosta · kasvissyöjä poissa",
       "ingredients": [
         {
           "key": "beef",
@@ -289,10 +289,10 @@
         }
       ],
       "steps": [
-        "Heat the oven to 160°C fan. Cut beef into 3 cm cubes. Brown in the oil in an ovenproof casserole in batches, then lift out. Soften chopped onion in the same pot for 8 minutes.",
-        "Add chopped garlic and tomato purée; stir for 1 minute. Return the beef with tomatoes, 400 ml stock, cinnamon, bay, salt and pepper. Cover and bake for 1½–2 hours until fork-tender.",
-        "Raise the oven to 180°C fan. Remove the bay leaf. Stir in the dry orzo and remaining 300 ml hot stock. Bake uncovered for 20–25 minutes, stirring halfway. Add a splash of hot water if the orzo is drying out before it is tender.",
-        "Rest for 10 minutes; the orzo continues absorbing sauce. Serve with grated hard cheese."
+        "Lämmitä kiertoilmauuni 160 asteeseen. Leikkaa naudanliha noin 3 cm:n kuutioiksi. Ruskista öljyssä uuninkestävässä padassa muutamassa erässä ja siirrä sivuun. Kuullota hienonnettua sipulia samassa padassa 8 minuuttia.",
+        "Lisää hienonnettu valkosipuli ja tomaattipyree. Sekoita minuutti. Palauta liha pataan ja lisää tomaattimurska, 400 ml lientä, kaneli, laakerinlehti, suola ja mustapippuri. Peitä ja hauduta uunissa 1½–2 tuntia, kunnes liha on haarukalla kokeiltaessa mureaa.",
+        "Nosta uunin lämpö 180 asteeseen. Poista laakerinlehti. Sekoita joukkoon kuiva orzo ja loput 300 ml kuumaa lientä. Paista ilman kantta 20–25 minuuttia ja sekoita puolivälissä. Lisää tilkka kuumaa vettä, jos pasta kuivuu ennen kypsymistä.",
+        "Anna vetäytyä 10 minuuttia. Orzo imee vielä kastiketta. Tarjoa juustoraasteen kanssa."
       ],
       "note": ""
     },
@@ -301,11 +301,11 @@
       "week": "greece",
       "day": "Friday",
       "kind": "Dinner",
-      "title": "Prawn saganaki",
-      "desc": "Prawns in a rich tomato sauce, with feta, bread and Greek salad.",
+      "title": "Katkarapusaganaki",
+      "desc": "Katkarapuja tomaatti-fetakastikkeessa, leipää ja kreikkalaista salaattia.",
       "servings": 4,
       "time": "35 min",
-      "split": "Shared seafood meal",
+      "split": "Sama ruoka kaikille",
       "ingredients": [
         {
           "key": "prawn",
@@ -369,10 +369,10 @@
         }
       ],
       "steps": [
-        "Heat the oven to 200°C fan. Soften chopped onion in 25 ml oil in an ovenproof frying pan for 8 minutes. Add chopped garlic and oregano for 1 minute, then tinned tomatoes, salt and pepper. Simmer for 12–15 minutes until thickened.",
-        "Pat the thawed, peeled prawns dry. Stir into the sauce, crumble 150 g feta over the top and bake for 8–12 minutes until the prawns are opaque throughout and cooked through.",
-        "Chop fresh tomatoes, cucumber and red onion. Dress with the remaining 15 ml oil and half the lemon juice; top with the remaining 50 g feta.",
-        "Sprinkle chopped parsley over the prawns. Serve with bread, salad and the remaining lemon cut into wedges."
+        "Lämmitä kiertoilmauuni 200 asteeseen. Kuullota hienonnettua sipulia 25 ml:ssa öljyä uuninkestävällä pannulla 8 minuuttia. Lisää hienonnettu valkosipuli ja oregano minuutiksi. Lisää tomaattimurska, suola ja mustapippuri. Hauduta 12–15 minuuttia, kunnes kastike sakenee.",
+        "Kuivaa sulatetut, kuoritut katkaravut. Sekoita ne kastikkeeseen ja murenna päälle 150 g fetaa. Paista uunissa 8–12 minuuttia, kunnes ravut ovat kauttaaltaan läpikuultamattomia ja kypsiä.",
+        "Pilko tuoreet tomaatit, kurkku ja punasipuli. Mausta lopulla 15 ml:lla öljyä ja puolella sitruunamehusta. Lisää loput 50 g fetaa.",
+        "Ripottele katkarapujen päälle hienonnettua persiljaa. Tarjoa leivän, salaatin ja jäljelle jääneestä sitruunasta leikattujen lohkojen kanssa."
       ],
       "note": ""
     },
@@ -381,11 +381,11 @@
       "week": "greece",
       "day": "Sunday",
       "kind": "Dinner",
-      "title": "Moussaka, two ways",
-      "desc": "One beef bake and one small lentil-and-mushroom bake, with shared layers.",
+      "title": "Moussaka: liha- ja kasvisversio",
+      "desc": "Kolme annosta naudanlihalla ja yksi linsseillä ja sienillä. Kasvikset ja valkokastike valmistetaan yhdessä.",
       "servings": 4,
-      "time": "1 hr 50 min",
-      "split": "3 beef + 1 lentil & mushroom",
+      "time": "1 h 50 min",
+      "split": "3 liha-annosta + 1 kasvisannos",
       "ingredients": [
         {
           "key": "aubergine",
@@ -465,12 +465,12 @@
         }
       ],
       "steps": [
-        "Heat the oven to 200°C fan. Slice potatoes and aubergines into 5 mm rounds. Toss with 45 ml oil and half the salt. Roast on lined trays for 25–30 minutes, turning once, until tender.",
-        "Soften chopped onion in the remaining 15 ml oil for 8 minutes. Add garlic and purée for 1 minute, then tomatoes, cinnamon, oregano, remaining salt and pepper. Simmer for 15 minutes. Divide this meat-free sauce: three quarters into one bowl, one quarter into another.",
-        "Brown the beef in a large pan for 8–10 minutes, breaking it up; stir in the larger sauce portion and simmer for 10 minutes. In a separate small pan, dry-fry chopped mushrooms until their liquid evaporates, then add drained lentils and the smaller sauce portion; simmer for 5 minutes.",
-        "Melt butter in a saucepan, stir in flour and cook for 1 minute. Gradually whisk in milk. Simmer, whisking, until thick; stir in nutmeg and half the cheese.",
-        "Reduce the oven to 180°C fan. Use a roughly 20 × 20 cm dish for the beef and a small 12 × 15 cm dish for the meat-free portion. Split potatoes, aubergines and béchamel 3:1 between them. Layer potatoes, aubergine, filling and béchamel; finish with remaining cheese.",
-        "Bake for 35–40 minutes until bubbling, golden and hot throughout (beef filling 75°C for 30 seconds). Rest for 15 minutes before serving."
+        "Lämmitä kiertoilmauuni 200 asteeseen. Viipaloi perunat ja munakoisot noin 5 mm:n paksuisiksi. Sekoita joukkoon 45 ml öljyä ja puolet suolasta. Paahda leivinpaperilla vuoratuilla pelleillä 25–30 minuuttia. Käännä kerran ja kypsennä pehmeiksi.",
+        "Kuullota hienonnettua sipulia lopussa 15 ml:ssa öljyä 8 minuuttia. Lisää valkosipuli ja tomaattipyree minuutiksi. Lisää tomaattimurska, kaneli, oregano, loput suolasta ja mustapippuri. Hauduta 15 minuuttia. Jaa kastike kahteen kulhoon: kolme neljäsosaa lihaversioon ja yksi neljäsosa kasvisversioon.",
+        "Ruskista jauhelihaa suurella pannulla 8–10 minuuttia ja murenna se lastalla. Lisää suurempi kastikeannos ja hauduta 10 minuuttia. Paista hienonnettuja sieniä erillisellä pienellä pannulla ilman öljyä, kunnes neste haihtuu. Lisää valutetut linssit ja pienempi kastikeannos. Hauduta 5 minuuttia.",
+        "Sulata voi kattilassa, sekoita joukkoon jauhot ja kypsennä minuutti. Lisää maito vähitellen vispaten. Keitä hiljalleen koko ajan sekoittaen, kunnes kastike sakenee. Lisää muskottipähkinä ja puolet juustosta.",
+        "Laske uunin lämpö 180 asteeseen. Varaa lihaversiolle noin 20 × 20 cm:n vuoka ja kasvisversiolle noin 12 × 15 cm:n vuoka. Jaa perunat, munakoisot ja valkokastike vuokiin suhteessa 3:1. Lado pohjalle perunat, sitten munakoiso ja täyte. Levitä päälle valkokastike ja loput juustosta.",
+        "Paista 35–40 minuuttia, kunnes pinta on kullanruskea ja ruoka kuplii sekä on kauttaaltaan kuumaa. Lihatäytteen sisälämpötilan tulee olla vähintään 75 °C 30 sekunnin ajan. Anna vetäytyä 15 minuuttia ennen tarjoilua."
       ],
       "note": ""
     },
@@ -479,11 +479,11 @@
       "week": "greece",
       "day": "Sunday",
       "kind": "Lunch / snack",
-      "title": "Little tiropita",
-      "desc": "Golden feta parcels; eight small pies for four.",
+      "title": "Tiropita-fetapiiraat",
+      "desc": "Kahdeksan pientä filotaikinapiirasta neljälle.",
       "servings": 4,
       "time": "40 min",
-      "split": "Meat-free for everyone",
+      "split": "Kasvisruoka kaikille",
       "ingredients": [
         {
           "key": "filo",
@@ -511,10 +511,10 @@
         }
       ],
       "steps": [
-        "Heat the oven to 180°C fan. Mash feta with yogurt, egg and pepper. Melt the butter.",
-        "Cut filo into strips about 10 cm wide. Use two layers for each of eight parcels, brushing lightly with butter. Keep the remaining pastry covered with a damp towel.",
-        "Put one eighth of the filling at one end of each strip. Fold a corner over into a triangle, then continue folding to the end, enclosing the filling.",
-        "Brush with remaining butter and bake on a lined tray for 20–25 minutes until golden and the filling is set. Cool for 5 minutes."
+        "Lämmitä kiertoilmauuni 180 asteeseen. Murenna feta ja sekoita jogurtin, kananmunan ja mustapippurin kanssa. Sulata voi.",
+        "Leikkaa filotaikina noin 10 cm leveiksi suikaleiksi. Käytä kuhunkin kahdeksaan piiraaseen kaksi kerrosta ja sivele väliin hieman voita. Pidä loput taikinasta kostean pyyhkeen alla.",
+        "Laita suikaleen päähän kahdeksasosa täytteestä. Taita yksi kulma täytteen yli kolmioksi ja jatka taittelua suikaleen loppuun. Sulje täyte huolellisesti taikinan sisään.",
+        "Sivele loppu voi piiraiden päälle. Paista leivinpaperin päällä 20–25 minuuttia, kunnes pinta on kullanruskea ja täyte hyytynyt. Anna jäähtyä 5 minuuttia."
       ],
       "note": ""
     },
@@ -523,11 +523,11 @@
       "week": "greece",
       "day": "Sunday",
       "kind": "Dessert",
-      "title": "Loukoumades",
-      "desc": "A small batch of warm honey-and-cinnamon doughnuts.",
+      "title": "Loukoumades-hunajamunkit",
+      "desc": "Pieni erä hunajalla ja kanelilla maustettuja munkkeja.",
       "servings": 4,
-      "time": "35 min + 1 hr rising",
-      "split": "Makes about 16 small doughnuts",
+      "time": "35 min + kohotus 1 h",
+      "split": "Noin 16 pientä munkkia neljälle",
       "ingredients": [
         {
           "key": "flour",
@@ -559,23 +559,23 @@
         }
       ],
       "steps": [
-        "Mix flour, yeast, sugar and salt. Beat in 200 ml lukewarm water to make a thick, sticky batter. Cover and leave in a warm place for about 1 hour until bubbly and doubled.",
-        "Warm honey with 20 ml water in a small pan; set aside. Heat rapeseed oil to 175°C in a deep heavy pan no more than one third full. Use a thermometer and keep children away from the frying area.",
-        "Using two damp teaspoons, gently lower small spoonfuls of batter into the oil. Fry in batches for 3–4 minutes, turning, until golden and cooked inside. Keep the oil around 175°C and drain on kitchen paper.",
-        "Toss with the honey syrup, sprinkle with cinnamon and serve warm."
+        "Sekoita jauhot, hiiva, sokeri ja suola. Vatkaa joukkoon 200 ml kädenlämpöistä vettä paksuksi, tahmeaksi taikinaksi. Peitä ja kohota lämpimässä noin tunti, kunnes taikina kuplii ja on kaksinkertaistunut.",
+        "Lämmitä hunaja ja 20 ml vettä pienessä kattilassa. Siirrä sivuun. Kuumenna rypsiöljy 175 asteeseen syvässä, paksupohjaisessa kattilassa. Öljyä saa olla enintään kolmannes kattilan tilavuudesta. Käytä lämpömittaria ja pidä lapset poissa paistoalueelta.",
+        "Laske taikinaa öljyyn pieninä nokareina kahden kostean teelusikan avulla. Paista erissä 3–4 minuuttia välillä käännellen, kunnes munkit ovat kullanruskeita ja sisältä kypsiä. Pidä öljy noin 175-asteisena. Valuta talouspaperilla.",
+        "Kääntele munkit hunajaliemessä, ripottele päälle kanelia ja tarjoa lämpiminä."
       ],
-      "note": "Frying oil is counted as a whole batch in the shopping list, not as the amount eaten. Use a narrower suitable pot if 750 ml does not give enough depth; never overfill."
+      "note": "Ostoslistassa on mukana koko paistoöljyerä, ei vain ruokaan imeytyvä määrä. Jos 750 ml ei riitä sopivaan paistosyvyyteen, käytä kapeampaa tarkoitukseen sopivaa kattilaa. Älä täytä kattilaa liian täyteen."
     },
     {
       "id": "tikka",
       "week": "uk",
       "day": "Monday",
       "kind": "Dinner",
-      "title": "Chicken & paneer tikka masala",
-      "desc": "One gently spiced sauce, two pans, rice and warm naan.",
+      "title": "Kana- ja paneer-tikka masala",
+      "desc": "Yhteinen mieto kastike, erikseen kypsennetyt proteiinit, basmatiriisiä ja naanleipää.",
       "servings": 4,
       "time": "45 min",
-      "split": "3 chicken + 1 paneer",
+      "split": "3 kana-annosta + 1 paneerannos",
       "ingredients": [
         {
           "key": "chicken",
@@ -647,23 +647,23 @@
         }
       ],
       "steps": [
-        "Cook the rice according to its packet. Dice the onion and soften in 15 ml oil for 8 minutes. Add grated ginger, crushed garlic and all the spices; stir for 1 minute.",
-        "Add tomatoes and salt, simmer for 15 minutes, then stir in cream and yogurt over low heat. Divide this meat-free sauce between two pans, three quarters for chicken and one quarter for paneer.",
-        "Cube the chicken. Brown in 10 ml oil for 5 minutes, add to its sauce and simmer for 12–15 minutes until cooked through, reaching 75°C for 30 seconds in the centre.",
-        "Cube paneer and brown in the remaining 5 ml oil in a separate pan for 5 minutes. Add to its sauce and simmer for 5 minutes. Warm naan according to the packet and serve with rice."
+        "Keitä riisi pakkauksen ohjeen mukaan. Hienonna sipuli ja kuullota 15 ml:ssa öljyä 8 minuuttia. Lisää raastettu inkivääri, murskattu valkosipuli ja kaikki mausteet suolaa lukuun ottamatta. Sekoita minuutti.",
+        "Lisää tomaattimurska ja suola. Hauduta 15 minuuttia. Sekoita kerma ja jogurtti joukkoon miedolla lämmöllä. Jaa kastike kahteen pannuun: kolme neljäsosaa broilerille ja yksi neljäsosa paneerille.",
+        "Kuutioi broileri. Ruskista 10 ml:ssa öljyä 5 minuuttia, lisää omaan kastikkeeseensa ja hauduta 12–15 minuuttia. Broilerin tulee olla läpikypsää ja sisälämpötilan vähintään 75 °C 30 sekunnin ajan.",
+        "Kuutioi paneer ja ruskista erillisellä pannulla lopussa 5 ml:ssa öljyä 5 minuuttia. Lisää omaan kastikkeeseensa ja hauduta 5 minuuttia. Lämmitä naanleivät pakkauksen ohjeen mukaan. Tarjoa riisin kanssa."
       ],
-      "note": "Paneer can be replaced gram-for-gram with firm tofu if it is missing from the cheese shelf."
+      "note": "Jos paneeria ei löydy, käytä sama grammamäärä kiinteää tofua."
     },
     {
       "id": "cottage",
       "week": "uk",
       "day": "Tuesday",
       "kind": "Dinner",
-      "title": "Lentil & mushroom cottage pie",
-      "desc": "A deeply savoury filling under a fork-ridged potato roof.",
+      "title": "Linssi-sienipaistos perunamuusilla",
+      "desc": "Linssi-sienitäyte perunamuusikerroksen alla.",
       "servings": 4,
       "time": "65 min",
-      "split": "Meat-free for everyone",
+      "split": "Kasvisruoka kaikille",
       "ingredients": [
         {
           "key": "lentil",
@@ -735,10 +735,10 @@
         }
       ],
       "steps": [
-        "Heat the oven to 190°C fan. Peel and chop potatoes. Boil for 15–20 minutes until tender; drain and mash with milk, butter and half the salt.",
-        "Dice onions and carrots and soften in olive oil for 8 minutes. Add chopped mushrooms and cook for 8 minutes until their liquid evaporates. Add garlic, thyme and tomato purée, then flour; stir for 1 minute.",
-        "Stir in stock, drained lentils, soy sauce, pepper and remaining salt. Simmer for 10 minutes until thick. Spoon into a roughly 20 × 25 cm baking dish.",
-        "Spread mash over the filling, roughen with a fork and scatter with grated cheddar. Bake for 25 minutes until bubbling and golden."
+        "Lämmitä kiertoilmauuni 190 asteeseen. Kuori ja pilko perunat. Keitä 15–20 minuuttia pehmeiksi, valuta ja soseuta maidon, voin ja puolen suolamäärän kanssa.",
+        "Kuutioi sipulit ja porkkanat. Kuullota oliiviöljyssä 8 minuuttia. Lisää pilkotut sienet ja paista 8 minuuttia, kunnes neste haihtuu. Lisää valkosipuli, timjami ja tomaattipyree, sitten jauhot. Sekoita minuutti.",
+        "Lisää liemi, valutetut linssit, soijakastike, mustapippuri ja loput suolasta. Hauduta 10 minuuttia, kunnes täyte sakenee. Kaada noin 20 × 25 cm:n uunivuokaan.",
+        "Levitä muusi täytteen päälle, vedä pintaan uria haarukalla ja ripottele päälle cheddar. Paista 25 minuuttia, kunnes täyte kuplii ja pinta on kullanruskea."
       ],
       "note": ""
     },
@@ -747,11 +747,11 @@
       "week": "uk",
       "day": "Wednesday",
       "kind": "Dinner",
-      "title": "Leek & potato soup",
-      "desc": "A cosy bowl with crisp cheddar toasties for dunking.",
+      "title": "Purjo-perunakeitto ja juustoleivät",
+      "desc": "Sosekeittoa ja pannulla paistettuja cheddarvoileipiä.",
       "servings": 4,
       "time": "40 min",
-      "split": "Meat-free for everyone",
+      "split": "Kasvisruoka kaikille",
       "ingredients": [
         {
           "key": "leek",
@@ -795,10 +795,10 @@
         }
       ],
       "steps": [
-        "Wash leeks carefully and slice. Chop onion and soften both in 25 g butter for 10 minutes without browning.",
-        "Add peeled, diced potatoes and stock. Simmer for 20 minutes until very tender. Blend until smooth, stir in milk, salt and pepper, and warm through gently.",
-        "Make four sandwiches with bread and cheddar. Spread the remaining 25 g butter thinly on the outsides. Pan-toast over medium-low heat for 3–4 minutes per side until golden and melted inside.",
-        "Cut the toasties into fingers or triangles and serve with the soup."
+        "Pese purjot huolellisesti ja viipaloi. Hienonna sipuli. Kuullota molempia 25 g:ssa voita 10 minuuttia ruskistamatta.",
+        "Lisää kuoritut, kuutioidut perunat ja liemi. Keitä hiljalleen 20 minuuttia, kunnes perunat ovat hyvin pehmeitä. Soseuta sileäksi. Lisää maito, suola ja mustapippuri ja lämmitä varovasti.",
+        "Tee leivästä ja cheddarista neljä kerrosvoileipää. Voitele ulkopinnat ohuelti jäljellä olevalla 25 g:lla voita. Paista melko miedolla lämmöllä 3–4 minuuttia kummaltakin puolelta, kunnes pinta on kullanruskea ja juusto sulanut.",
+        "Leikkaa voileivät suikaleiksi tai kolmioiksi ja tarjoa keiton kanssa."
       ],
       "note": ""
     },
@@ -808,10 +808,10 @@
       "day": "Thursday",
       "kind": "Dinner",
       "title": "Fish & chips",
-      "desc": "Crisp battered white fish, oven chips, quick mushy peas and tartare sauce.",
+      "desc": "Taikinoitua vaaleaa kalaa, uuniranskalaisia, hernesosetta ja tartarkastiketta.",
       "servings": 4,
       "time": "55 min",
-      "split": "Shared seafood meal · cod or haddock",
+      "split": "Sama ruoka kaikille · turskaa tai koljaa",
       "ingredients": [
         {
           "key": "cod",
@@ -875,24 +875,24 @@
         }
       ],
       "steps": [
-        "Heat the oven to 210°C fan. Cut potatoes into thick chips, boil for 5 minutes, drain and steam-dry. Toss with 30 ml of the oil and half the salt; roast for 35–40 minutes, turning halfway.",
-        "Mix mayonnaise with chopped capers, chopped gherkins and half the lemon juice. Cook peas according to their packet, drain, then mash with butter, pepper and 30 ml hot water.",
-        "Pat the fish dry and check for bones. Dust with 30 g of the flour. Mix the remaining 150 g flour, cornflour, baking powder and remaining salt. Whisk in 230 ml very cold water just before frying.",
-        "Heat the remaining oil in a deep, heavy pan to 175°C, never filling more than one third. Dip fish into batter and carefully lower into oil, cooking in batches for 6–9 minutes depending on thickness, until crisp and cooked through. Check the thickest part reaches 75°C for 30 seconds.",
-        "Drain on kitchen paper. Serve immediately with chips, peas, tartare, malt vinegar and the remaining lemon in wedges."
+        "Lämmitä kiertoilmauuni 210 asteeseen. Leikkaa perunat paksuiksi tikuiksi. Keitä 5 minuuttia, valuta ja anna höyryn haihtua. Sekoita joukkoon 30 ml öljyä ja puolet suolasta. Paahda 35–40 minuuttia ja käännä puolivälissä.",
+        "Sekoita majoneesiin hienonnetut kaprikset, maustekurkut ja puolet sitruunamehusta. Keitä herneet pakkauksen ohjeen mukaan ja valuta. Soseuta karkeasti voin, mustapippurin ja 30 ml:n kuumaa vettä kanssa.",
+        "Kuivaa kala ja tarkista ruodot. Jauhota fileet 30 g:lla vehnäjauhoa. Sekoita loput 150 g jauhoa, maissitärkkelys, leivinjauhe ja loppu suola. Vatkaa joukkoon 230 ml hyvin kylmää vettä juuri ennen paistamista.",
+        "Kuumenna loppu öljy syvässä, paksupohjaisessa kattilassa 175 asteeseen. Täytä kattilasta enintään kolmannes. Kasta kalat taikinaan ja laske varovasti öljyyn. Paista erissä 6–9 minuuttia paksuuden mukaan, kunnes pinta on rapea ja kala kypsää. Tarkista paksuimmasta kohdasta vähintään 75 °C:n sisälämpötila 30 sekunnin ajan.",
+        "Valuta talouspaperilla. Tarjoa heti perunoiden, hernesoseen, tartarkastikkeen, mallasetikan ja loppusitruunasta leikattujen lohkojen kanssa."
       ],
-      "note": "Use a thermometer for the oil. The list includes a fresh batch of frying oil. For an oven-only version, buy breaded cod/haddock with no peanut ingredients, replace the fish-and-batter ingredients accordingly, and follow its packet."
+      "note": "Käytä öljyn lämpötilan mittaamiseen lämpömittaria. Ostoslista sisältää koko paistoöljyerän. Jos haluat valmistaa kaiken uunissa, voit ostaa maapähkinättömiä leivitettyjä turska- tai koljafileitä. Korvaa tällöin kala ja taikinan ainekset ostoslistalla ja noudata pakkauksen ohjetta."
     },
     {
       "id": "toad",
       "week": "uk",
       "day": "Friday",
       "kind": "Dinner",
-      "title": "Toad in the hole",
-      "desc": "Sausages in puffy batter, onion gravy, peas and carrots.",
+      "title": "Toad in the hole eli makkarapannukakku",
+      "desc": "Makkaroita uunipannukakussa, sipulikastiketta, herneitä ja porkkanoita.",
       "servings": 4,
       "time": "55 min",
-      "split": "3 pork + 1 vegetarian sausage portion",
+      "split": "3 liha-annosta + 1 kasvismakkara-annos",
       "ingredients": [
         {
           "key": "sausage",
@@ -956,10 +956,10 @@
         }
       ],
       "steps": [
-        "Heat the oven to 210°C fan. Whisk 140 g flour, eggs, milk and salt into a smooth batter. Rest while the oven heats. Place pork sausages with 20 ml oil in a medium baking dish and vegetarian sausages with 10 ml oil in a small separate dish. Roast for 15 minutes.",
-        "Pour three quarters of the batter around the pork sausages and one quarter around the vegetarian sausages. Return to the oven for 25–30 minutes without opening the door, until puffed and golden and the pork sausages reach 75°C for 30 seconds.",
-        "For gravy, slice the onions and soften in butter and the remaining 5 ml oil for 15 minutes. Stir in the remaining 20 g flour, then gradually add stock, soy sauce, thyme and pepper. Simmer for 10 minutes.",
-        "Peel and slice carrots; steam or boil for 8–10 minutes. Cook peas according to the packet. Serve with both versions of the toad and shared vegetarian gravy."
+        "Lämmitä kiertoilmauuni 210 asteeseen. Vatkaa 140 g jauhoa, kananmunat, maito ja suola tasaiseksi taikinaksi. Anna levätä uunin lämmetessä. Laita porsaanmakkarat ja 20 ml öljyä keskikokoiseen vuokaan. Laita kasvismakkarat ja 10 ml öljyä erilliseen pieneen vuokaan. Paista 15 minuuttia.",
+        "Kaada kolme neljäsosaa taikinasta porsaanmakkaroiden ympärille ja loput kasvismakkaroiden ympärille. Paista vielä 25–30 minuuttia avaamatta luukkua. Pinnan tulee olla kohonnut ja kullanruskea, ja porsaanmakkaroiden sisälämpötilan vähintään 75 °C 30 sekunnin ajan.",
+        "Viipaloi kastiketta varten sipulit ja kuullota voissa sekä lopussa 5 ml:ssa öljyä 15 minuuttia. Lisää loput 20 g jauhoa ja sitten vähitellen liemi, soijakastike, timjami ja mustapippuri. Hauduta 10 minuuttia.",
+        "Kuori ja viipaloi porkkanat. Höyrytä tai keitä 8–10 minuuttia. Valmista herneet pakkauksen ohjeen mukaan. Tarjoa molemmat makkarapannukakut yhteisen kasvispohjaisen sipulikastikkeen ja kasvisten kanssa."
       ],
       "note": ""
     },
@@ -968,11 +968,11 @@
       "week": "uk",
       "day": "Saturday",
       "kind": "Dinner",
-      "title": "Welsh rarebit & tomato soup",
-      "desc": "Mustardy cheese toast, a little soup and a green salad.",
+      "title": "Welsh rarebit ja tomaattikeitto",
+      "desc": "Sinappisia cheddarleipiä, pieni annos tomaattikeittoa ja vihersalaattia.",
       "servings": 3,
       "time": "30 min",
-      "split": "Meat-free for all 3",
+      "split": "Kasvisruoka kaikille kolmelle",
       "ingredients": [
         {
           "key": "bread",
@@ -1040,23 +1040,23 @@
         }
       ],
       "steps": [
-        "Chop onion and soften in 10 ml olive oil for 6 minutes. Add tomatoes, stock and salt; simmer for 15 minutes, then blend into a light soup.",
-        "Melt butter in a small saucepan and stir in flour for 1 minute. Gradually whisk in milk to make a thick paste. Remove from the heat and stir in grated cheddar, mustard, soy, malt vinegar and pepper.",
-        "Toast six slices of bread lightly on both sides. Spread with the cheese mixture and grill on a tray for 3–5 minutes until bubbling and browned; watch closely.",
-        "Dress salad leaves with the remaining 5 ml olive oil and lemon juice. Serve with rarebit and small bowls of soup."
+        "Hienonna sipuli ja kuullota 10 ml:ssa oliiviöljyä 6 minuuttia. Lisää tomaattimurska, liemi ja suola. Hauduta 15 minuuttia ja soseuta keitoksi.",
+        "Sulata voi pienessä kattilassa. Lisää jauhot ja sekoita minuutti. Vatkaa maito vähitellen joukkoon paksuksi tahnaksi. Ota pois lämmöltä ja sekoita joukkoon juustoraaste, sinappi, soijakastike, mallasetikka ja mustapippuri.",
+        "Paahda kuusi leipäviipaletta kevyesti molemmin puolin. Levitä juustoseos päälle ja kuorruta pellillä grillivastuksen alla 3–5 minuuttia, kunnes pinta kuplii ja ruskistuu. Tarkkaile leipiä koko ajan.",
+        "Mausta salaatinlehdet lopulla 5 ml:lla oliiviöljyä ja sitruunamehulla. Tarjoa leipien ja pienten keittoannosten kanssa."
       ],
-      "note": "Soy sauce and malt vinegar provide the savoury tang here, avoiding a special bottle of Worcestershire sauce."
+      "note": "Soijakastike ja mallasetikka korvaavat tässä Worcestershire-kastikkeen."
     },
     {
       "id": "cauliflower",
       "week": "uk",
       "day": "Sunday",
       "kind": "Dinner",
-      "title": "The cauliflower Sunday roast",
-      "desc": "Cauliflower cheese for three, roast potatoes, Yorkshires, vegetables and onion gravy.",
+      "title": "Kukkakaaligratiini sunnuntain lisukkeilla",
+      "desc": "Kukkakaalia juustokastikkeessa, paahdettuja perunoita, Yorkshire-vanukkaita, kasviksia ja sipulikastiketta.",
       "servings": 3,
       "time": "80 min",
-      "split": "Meat-free for all 3",
+      "split": "Kasvisruoka kaikille kolmelle",
       "ingredients": [
         {
           "key": "cauliflower",
@@ -1128,12 +1128,12 @@
         }
       ],
       "steps": [
-        "Heat the oven to 200°C fan. Whisk 75 g flour, eggs, 150 ml milk and a quarter teaspoon salt into a batter; rest. Peel and cut potatoes, boil for 8 minutes, drain and roughen. Toss in 30 ml oil and roast for 50–60 minutes, turning halfway.",
-        "Cut cauliflower into florets and steam for 6–8 minutes until just tender; drain very well. Melt 40 g butter, stir in 40 g flour and cook for 1 minute. Whisk in the remaining 400 ml milk gradually. Simmer until thick, then stir in mustard, 140 g cheddar and half the pepper.",
-        "Put cauliflower in a roughly 20 cm baking dish, pour over sauce and top with the remaining cheese. Bake for 25 minutes until golden. Remove, cover loosely and keep warm while the Yorkshires bake. Potatoes may stay in the oven to finish crisping.",
-        "For gravy, soften sliced onions in the remaining 20 g butter for 15 minutes. Stir in the remaining 30 g flour, then stock, soy, thyme and remaining pepper and salt. Simmer for 10 minutes.",
-        "Raise oven to 210°C fan. Divide the remaining 25 ml oil among six metal muffin tin wells and heat for 5 minutes. Pour batter evenly into the hot wells and bake for 20–25 minutes without opening the door until risen and golden.",
-        "Steam sliced carrots for 8–10 minutes and cook peas according to their packet. Serve everything together, with two small Yorkshires each."
+        "Lämmitä kiertoilmauuni 200 asteeseen. Vatkaa 75 g jauhoa, kananmunat, 150 ml maitoa ja ¼ tl suolaa taikinaksi. Anna levätä. Kuori ja pilko perunat. Keitä 8 minuuttia, valuta ja ravistele pinnat karheiksi. Sekoita 30 ml öljyä joukkoon ja paahda 50–60 minuuttia. Käännä puolivälissä.",
+        "Leikkaa kukkakaali kukinnoiksi. Höyrytä 6–8 minuuttia juuri ja juuri kypsäksi ja valuta huolellisesti. Sulata 40 g voita, lisää 40 g jauhoa ja sekoita minuutti. Lisää loput 400 ml maitoa vähitellen vispaten. Keitä hiljalleen paksuksi. Lisää sinappi, 140 g cheddaria ja puolet mustapippurista.",
+        "Laita kukkakaali noin 20 cm:n uunivuokaan. Kaada juustokastike päälle ja lisää loppu juusto. Paista 25 minuuttia kullanruskeaksi. Nosta pois ja peitä löyhästi, jotta gratiini pysyy lämpimänä Yorkshire-vanukkaiden paistuessa. Perunat voivat jäädä uuniin rapeutumaan.",
+        "Kuullota kastiketta varten viipaloituja sipuleita lopussa 20 g:ssa voita 15 minuuttia. Sekoita joukkoon loput 30 g jauhoa, sitten liemi, soijakastike, timjami sekä loput mustapippurista ja suolasta. Hauduta 10 minuuttia.",
+        "Nosta uunin lämpö 210 asteeseen. Jaa loput 25 ml öljyä metallisen muffinivuoan kuuteen koloon ja kuumenna vuokaa 5 minuuttia. Kaada taikina tasaisesti kuumiin koloihin. Paista 20–25 minuuttia avaamatta luukkua, kunnes vanukkaat ovat kohonneet ja kullanruskeita.",
+        "Höyrytä viipaloituja porkkanoita 8–10 minuuttia ja valmista herneet pakkauksen ohjeen mukaan. Tarjoa kaikki yhdessä. Yorkshire-vanukkaita tulee kaksi kullekin."
       ],
       "note": ""
     },
@@ -1142,11 +1142,11 @@
       "week": "uk",
       "day": "Saturday",
       "kind": "Breakfast",
-      "title": "A little Full English",
-      "desc": "A weekend breakfast for two meat-eaters and one meat-free diner.",
+      "title": "Englantilainen aamiainen",
+      "desc": "Kananmunia, papuja, kasviksia ja paahtoleipää. Kahdelle lihaa, yhdelle kasvismakkaraa.",
       "servings": 3,
       "time": "30 min",
-      "split": "2 meat + 1 vegetarian breakfast",
+      "split": "2 liha-aamiaista + 1 kasvisaamiainen",
       "ingredients": [
         {
           "key": "egg",
@@ -1194,10 +1194,10 @@
         }
       ],
       "steps": [
-        "Heat the oven to 190°C fan. Put pork sausages and bacon on one tray, vegetarian sausages on a separate small tray. Cook according to the packs, allowing about 20–25 minutes for raw pork sausages; check they reach 75°C for 30 seconds.",
-        "Halve tomatoes and slice mushrooms. Cook together in 10 ml oil in a separate pan for 8–10 minutes, seasoning with pepper. Warm baked beans in a saucepan.",
-        "Fry eggs in the remaining 5 ml oil until whites and yolks are set to your preference. Toast and butter the bread.",
-        "Build three plates: shared eggs, beans, mushrooms, tomatoes and toast, with pork and bacon on two plates and vegetarian sausages on one."
+        "Lämmitä kiertoilmauuni 190 asteeseen. Laita porsaanmakkarat ja pekoni yhdelle pellille ja kasvismakkarat erilliselle pienelle pellille. Kypsennä pakkausten ohjeiden mukaan. Raakamakkaroihin kuluu yleensä 20–25 minuuttia; tarkista vähintään 75 °C:n sisälämpötila 30 sekunnin ajan.",
+        "Puolita tomaatit ja viipaloi sienet. Paista erillisellä pannulla 10 ml:ssa öljyä 8–10 minuuttia ja mausta mustapippurilla. Kuumenna pavut kattilassa.",
+        "Paista kananmunat lopussa 5 ml:ssa öljyä haluttuun kypsyyteen. Paahda ja voitele leivät.",
+        "Jaa kananmunat, pavut, sienet, tomaatit ja leivät kolmelle lautaselle. Lisää kahdelle porsaanmakkaraa ja pekonia, yhdelle kasvismakkaraa."
       ],
       "note": ""
     },
@@ -1206,11 +1206,11 @@
       "week": "uk",
       "day": "Saturday",
       "kind": "Dessert",
-      "title": "Sticky toffee pudding",
-      "desc": "A small date sponge with warm toffee sauce and ice cream.",
+      "title": "Taatelivanukas toffeekastikkeella",
+      "desc": "Pieni sticky toffee pudding kolmelle, lisänä vaniljajäätelöä.",
       "servings": 3,
       "time": "50 min",
-      "split": "Meat-free · small bake for 3",
+      "split": "Kolme annosta",
       "ingredients": [
         {
           "key": "date",
@@ -1254,10 +1254,10 @@
         }
       ],
       "steps": [
-        "Heat the oven to 170°C fan. Chop dates and pour over 120 ml boiling water. Stir in bicarbonate of soda and stand for 10 minutes; mash with a fork.",
-        "Beat 35 g softened butter with 40 g brown sugar. Beat in the egg and vanilla, then fold in flour, baking powder and the date mixture.",
-        "Line a small roughly 15 cm baking dish and add the batter. Bake for 25–30 minutes until a skewer inserted in the centre comes out clean.",
-        "For sauce, melt the remaining 25 g butter and 60 g sugar with the cream. Simmer for 3 minutes, stirring. Spoon over three portions of warm pudding and serve with ice cream."
+        "Lämmitä kiertoilmauuni 170 asteeseen. Hienonna taatelit ja kaada päälle 120 ml kiehuvaa vettä. Sekoita ruokasooda joukkoon ja anna seistä 10 minuuttia. Murskaa haarukalla.",
+        "Vatkaa 35 g pehmeää voita ja 40 g fariinisokeria. Vatkaa joukkoon kananmuna ja vaniljauute. Kääntele joukkoon jauhot, leivinjauhe ja taateliseos.",
+        "Vuoraa pieni, noin 15 cm:n uunivuoka leivinpaperilla ja kaada taikina siihen. Paista 25–30 minuuttia, kunnes keskelle työnnetty tikku tulee puhtaana ulos.",
+        "Sulata kastiketta varten loput 25 g voita ja 60 g fariinisokeria kerman kanssa. Keitä hiljalleen 3 minuuttia sekoittaen. Lusikoi kastike kolmen lämpimän vanukasannoksen päälle ja tarjoa jäätelön kanssa."
       ],
       "note": ""
     },
@@ -1266,11 +1266,11 @@
       "week": "uk",
       "day": "Sunday",
       "kind": "Breakfast",
-      "title": "Homemade crumpets",
-      "desc": "Small bubbly griddle cakes, butter and jam. No specialist bakery trip.",
+      "title": "Crumpetit, voi ja hillo",
+      "desc": "Kuusi pannulla paistettavaa aamiaisleipästä tavallisista vehnäjauhoista.",
       "servings": 3,
-      "time": "35 min + 1 hr rising",
-      "split": "Makes 6 · two each",
+      "time": "35 min + kohotus 1 h",
+      "split": "6 crumpettia · 2 kullekin",
       "ingredients": [
         {
           "key": "flour",
@@ -1310,10 +1310,10 @@
         }
       ],
       "steps": [
-        "Whisk flour, yeast, sugar and salt with the lukewarm milk and 150 ml lukewarm water. Cover for 1 hour until bubbly.",
-        "Stir baking powder into 15 ml water and beat into the batter. It should be thick but pourable; add a little more water if needed.",
-        "Lightly oil a non-stick frying pan and metal crumpet or egg rings. Heat on medium-low. Put rings in the pan and fill each about 1 cm deep. Cook for 8–10 minutes until holes appear and the top is almost set.",
-        "Remove rings carefully, turn and cook for 1–2 minutes. Repeat for six crumpets. Without rings, use smaller free-form rounds; they will be flatter and cook faster. Serve with butter and jam."
+        "Sekoita jauhot, hiiva, sokeri ja suola kädenlämpöiseen maitoon ja 150 ml:aan kädenlämpöistä vettä. Peitä ja anna kohota tunti, kunnes taikina kuplii.",
+        "Sekoita leivinjauhe 15 ml:aan vettä ja vatkaa taikinaan. Taikinan tulee olla paksua mutta kaadettavaa. Lisää tarvittaessa hieman vettä.",
+        "Öljyä kevyesti tarttumaton paistinpannu ja metalliset paistorenkaat. Kuumenna melko miedolla lämmöllä. Aseta renkaat pannulle ja kaada niihin noin 1 cm:n kerros taikinaa. Paista 8–10 minuuttia, kunnes pinnalle muodostuu reikiä ja pinta on lähes hyytynyt.",
+        "Irrota renkaat varovasti. Käännä ja paista vielä 1–2 minuuttia. Tee yhteensä kuusi crumpettia. Ilman renkaita voit paistaa pienempiä, vapaamuotoisia leipäsiä: niistä tulee matalampia ja ne kypsyvät nopeammin. Tarjoa voin ja hillon kanssa."
       ],
       "note": ""
     },
@@ -1322,11 +1322,11 @@
       "week": "uk",
       "day": "Sunday",
       "kind": "Dessert",
-      "title": "Apple crumble & custard",
-      "desc": "Tart apples under a buttery, golden crumble.",
+      "title": "Omenapaistos ja vaniljakastike",
+      "desc": "Omenoita voi-jauhomurun alla.",
       "servings": 3,
       "time": "45 min",
-      "split": "Meat-free for all 3",
+      "split": "Kolme annosta",
       "ingredients": [
         {
           "key": "apple",
@@ -1354,10 +1354,10 @@
         }
       ],
       "steps": [
-        "Heat the oven to 180°C fan. Core and slice apples. Put in a small baking dish with 20 g sugar, cinnamon and 30 ml water.",
-        "Rub cold cubed butter into flour until crumbly. Stir in the remaining 35 g sugar and scatter over the apples without pressing down.",
-        "Bake for 30–35 minutes until the fruit is soft and the topping golden. Rest for 5 minutes.",
-        "Warm custard according to the pack and pour over three portions of crumble."
+        "Lämmitä kiertoilmauuni 180 asteeseen. Poista omenoista siemenkodat ja viipaloi. Laita pieneen uunivuokaan 20 g sokerin, kanelin ja 30 ml:n vettä kanssa.",
+        "Nypi kylmä kuutioitu voi jauhoihin murumaiseksi seokseksi. Lisää loput 35 g sokeria. Ripottele omenoiden päälle painamatta pintaa tiiviiksi.",
+        "Paista 30–35 minuuttia, kunnes omenat ovat pehmeitä ja pinta kullanruskea. Anna vetäytyä 5 minuuttia.",
+        "Lämmitä vaniljakastike pakkauksen ohjeen mukaan ja tarjoa kolmen paistosannoksen kanssa."
       ],
       "note": ""
     },
@@ -1366,11 +1366,11 @@
       "week": "china",
       "day": "Monday",
       "kind": "Dinner",
-      "title": "Tomato & egg",
-      "desc": "Soft eggs and juicy tomatoes, with rice and a cool cucumber salad.",
+      "title": "Tomaatti-munapaistos",
+      "desc": "Tomaattia ja kananmunaa, jasmiiniriisiä ja kurkkusalaattia.",
       "servings": 4,
       "time": "25 min",
-      "split": "Meat-free for everyone",
+      "split": "Kasvisruoka kaikille",
       "ingredients": [
         {
           "key": "egg",
@@ -1422,10 +1422,10 @@
         }
       ],
       "steps": [
-        "Cook rice according to its packet. Cut cucumber into bite-size pieces and dress with crushed garlic, soy sauce, vinegar and sesame oil.",
-        "Beat eggs with half the salt. Heat 15 ml oil in a large frying pan and gently scramble the eggs until just set. Transfer to a plate.",
-        "Chop tomatoes and spring onions. Heat the remaining oil and cook tomatoes with sugar, remaining salt and 50 ml water for 5–8 minutes until juicy and partly broken down.",
-        "Fold the eggs and spring onions back in and heat through for 1 minute. Serve over rice with cucumber salad."
+        "Keitä riisi pakkauksen ohjeen mukaan. Pilko kurkku suupaloiksi ja mausta murskatulla valkosipulilla, soijakastikkeella, riisiviinietikalla ja seesamiöljyllä.",
+        "Vatkaa kananmunat ja puolet suolasta kevyesti sekaisin. Kuumenna 15 ml öljyä suurella pannulla ja kypsennä munat varovasti sekoitellen juuri hyytyneeksi kokkeliksi. Siirrä lautaselle.",
+        "Pilko tomaatit ja kevätsipulit. Kuumenna loppu öljy. Lisää tomaatit, sokeri, loppu suola ja 50 ml vettä. Kypsennä 5–8 minuuttia, kunnes tomaatit ovat mehukkaita ja osittain hajonneet.",
+        "Kääntele kananmunat ja kevätsipulit joukkoon. Kuumenna minuutti ja tarjoa riisin sekä kurkkusalaatin kanssa."
       ],
       "note": ""
     },
@@ -1434,11 +1434,11 @@
       "week": "china",
       "day": "Tuesday",
       "kind": "Dinner",
-      "title": "Mild mapo-style tofu",
-      "desc": "Mushrooms and tofu in a savoury sauce, with rice and garlicky greens.",
+      "title": "Mieto mapo-tyylinen tofu",
+      "desc": "Tofua ja sieniä misokastikkeessa, riisiä ja valkosipulilla paistettua paksoita.",
       "servings": 4,
       "time": "35 min",
-      "split": "Meat-free for everyone",
+      "split": "Kasvisruoka kaikille",
       "ingredients": [
         {
           "key": "softtofu",
@@ -1498,23 +1498,23 @@
         }
       ],
       "steps": [
-        "Cook rice according to its packet. Cut tofu into 2 cm cubes. Finely chop mushrooms, ginger, garlic and spring onions.",
-        "Heat 15 ml oil in a wide pan and fry mushrooms for 7 minutes until browned. Add ginger, two thirds of the garlic and the white spring onion parts; stir for 1 minute.",
-        "Mix miso with the stock and soy sauce; pour into the pan. Add tofu and simmer gently for 6–8 minutes. Mix cornflour with 30 ml cold water, fold into the sauce and simmer for 2 minutes until lightly thickened. Add black pepper and green spring onion tops.",
-        "In another pan, heat the remaining 10 ml oil with the remaining garlic. Add chopped pak choi and 30 ml water, cover for 2 minutes, then stir-fry uncovered for 2 minutes. Serve with rice; put chilli flakes on the table."
+        "Keitä riisi pakkauksen ohjeen mukaan. Kuutioi tofu noin 2 cm:n paloiksi. Hienonna sienet, inkivääri, valkosipuli ja kevätsipulit.",
+        "Kuumenna 15 ml öljyä laakealla pannulla. Paista sieniä 7 minuuttia, kunnes ne ruskistuvat. Lisää inkivääri, kaksi kolmasosaa valkosipulista ja kevätsipulien vaaleat osat. Sekoita minuutti.",
+        "Sekoita misotahna liemeen ja soijakastikkeeseen ja kaada pannulle. Lisää tofu ja hauduta varovasti 6–8 minuuttia. Sekoita maissitärkkelys 30 ml:aan kylmää vettä, kääntele kastikkeeseen ja keitä hiljalleen 2 minuuttia, kunnes kastike sakenee hieman. Lisää mustapippuri ja kevätsipulien vihreät osat.",
+        "Kuumenna toisella pannulla loput 10 ml öljyä ja loppu valkosipuli. Lisää pilkottu paksoi ja 30 ml vettä. Peitä 2 minuutiksi ja paista sitten ilman kantta 2 minuuttia. Tarjoa riisin kanssa. Laita chilirouhe erikseen pöytään."
       ],
-      "note": "This is a mild K-store adaptation using vegan miso instead of doubanjiang. It does not reproduce the heat or flavour of traditional Sichuan mapo tofu. Firm tofu also works if soft tofu is unavailable."
+      "note": "Tässä miedossa versiossa doubanjiang korvataan vegaanisella misotahnalla. Maku ja tulisuus poikkeavat perinteisestä sichuanilaisesta mapo tofusta. Myös kiinteä tofu käy, jos pehmeää ei ole saatavilla."
     },
     {
       "id": "char-siu",
       "week": "china",
       "day": "Wednesday",
       "kind": "Dinner",
-      "title": "Char siu-style pork & tofu",
-      "desc": "Sticky oven-roasted pork and a separate tofu portion, with pak choi and rice.",
+      "title": "Char siu -tyylinen possu ja tofu",
+      "desc": "Hoisinilla maustettua uunipossua, erillinen tofuannos, riisiä ja paksoita.",
       "servings": 4,
-      "time": "65 min + 30 min marinating",
-      "split": "3 pork + 1 tofu",
+      "time": "65 min + marinointi 30 min",
+      "split": "3 possuannosta + 1 tofuannos",
       "ingredients": [
         {
           "key": "pork",
@@ -1566,23 +1566,23 @@
         }
       ],
       "steps": [
-        "Cut pork into long strips about 3 cm thick and tofu into thick slabs. Mix hoisin, soy, honey, cinnamon, black pepper, grated ginger and two crushed garlic cloves. Reserve one quarter in a clean bowl for tofu. Marinate pork and tofu separately in their sauce for at least 30 minutes in the fridge.",
-        "Heat the oven to 190°C fan. Put pork and its marinade in a lined roasting dish; put tofu and its marinade in another small dish. Roast pork for 35–45 minutes, turning halfway, until the centre reaches 75°C for 30 seconds. Roast tofu for 25–30 minutes. Add a splash of water if the glaze begins to catch.",
-        "Cook rice according to the packet. Slice pak choi, heat oil in a pan and fry the remaining chopped garlic for 30 seconds. Add greens and 40 ml water; cover for 2 minutes, then uncover and stir-fry for 2–3 minutes.",
-        "Rest pork for 5 minutes, slice and serve with rice and greens; serve tofu separately. Do not use uncooked marinade as a finishing sauce."
+        "Leikkaa porsaanliha pitkiksi, noin 3 cm paksuiksi suikaleiksi ja tofu paksuiksi viipaleiksi. Sekoita hoisin, soijakastike, hunaja, kaneli, mustapippuri, raastettu inkivääri ja kaksi murskattua valkosipulinkynttä. Ota neljännes marinadista puhtaaseen kulhoon tofua varten. Marinoi liha ja tofu erikseen jääkaapissa vähintään 30 minuuttia.",
+        "Lämmitä kiertoilmauuni 190 asteeseen. Laita porsaanliha marinadeineen leivinpaperilla vuorattuun vuokaan ja tofu omaan pieneen vuokaansa. Paista lihaa 35–45 minuuttia ja käännä puolivälissä. Sisälämpötilan tulee olla vähintään 75 °C 30 sekunnin ajan. Paista tofua 25–30 minuuttia. Lisää tilkka vettä, jos marinadi alkaa palaa.",
+        "Keitä riisi pakkauksen ohjeen mukaan. Viipaloi paksoi. Kuumenna öljy pannulla ja paista loppua hienonnettua valkosipulia 30 sekuntia. Lisää paksoi ja 40 ml vettä. Peitä 2 minuutiksi ja jatka ilman kantta 2–3 minuuttia sekoitellen.",
+        "Anna lihan vetäytyä 5 minuuttia, viipaloi ja tarjoa riisin ja paksoin kanssa. Tarjoa tofu erikseen. Älä käytä raakaa lihaa koskettanutta, kypsentämätöntä marinadia pöytäkastikkeena."
       ],
-      "note": "The hoisin product must have no peanut ingredients; “may contain” is acceptable for this household."
+      "note": "Valitse hoisinkastike, jonka ainesosissa ei ole maapähkinää. ”Saattaa sisältää maapähkinää” sopii tälle perheelle."
     },
     {
       "id": "chow-mein",
       "week": "china",
       "day": "Thursday",
       "kind": "Dinner",
-      "title": "Chicken & vegetable chow mein",
-      "desc": "A colourful noodle dinner with an easy tofu portion.",
+      "title": "Kana-kasvisnuudelit",
+      "desc": "Paistettuja nuudeleita ja kasviksia, yhdelle broilerin sijaan tofua.",
       "servings": 4,
       "time": "30 min",
-      "split": "3 chicken + 1 tofu",
+      "split": "3 kana-annosta + 1 tofuannos",
       "ingredients": [
         {
           "key": "chicken",
@@ -1638,10 +1638,10 @@
         }
       ],
       "steps": [
-        "Cook noodles according to their packet, drain and toss with sesame oil. Thinly slice chicken, cube tofu and cut vegetables into thin strips. Mix soy sauce, hoisin and 50 ml water in a bowl.",
-        "Stir-fry chicken in 10 ml oil for 7–10 minutes, until cooked through at 75°C for 30 seconds. Set aside. In a separate small pan, brown tofu in 5 ml oil for 6–8 minutes.",
-        "In a clean large wok or pan, heat the remaining 15 ml oil. Fry chopped garlic and ginger for 30 seconds, add carrots, cabbage and pepper, and stir-fry for 5 minutes.",
-        "Add noodles, sauce and spring onions; toss until hot. Move one quarter of the noodle mixture to the tofu pan. Add chicken to the larger portion. Heat both through and serve."
+        "Keitä nuudelit pakkauksen ohjeen mukaan. Valuta ja sekoita seesamiöljy joukkoon. Suikaloi broileri, kuutioi tofu ja leikkaa kasvikset ohuiksi suikaleiksi. Sekoita soijakastike, hoisin ja 50 ml vettä kulhossa.",
+        "Paista broileria 10 ml:ssa öljyä 7–10 minuuttia, kunnes se on läpikypsää ja sisälämpötila vähintään 75 °C 30 sekunnin ajan. Siirrä sivuun. Ruskista tofu erillisellä pienellä pannulla 5 ml:ssa öljyä 6–8 minuuttia.",
+        "Kuumenna puhtaassa wokissa tai suuressa pannussa loput 15 ml öljyä. Paista hienonnettua valkosipulia ja inkivääriä 30 sekuntia. Lisää porkkanat, kaali ja paprika ja paista 5 minuuttia sekoitellen.",
+        "Lisää nuudelit, kastike ja kevätsipulit. Kääntele kuumaksi. Siirrä neljännes seoksesta tofupannulle. Lisää broileri suurempaan annokseen. Kuumenna molemmat ja tarjoa."
       ],
       "note": ""
     },
@@ -1650,11 +1650,11 @@
       "week": "china",
       "day": "Friday",
       "kind": "Dinner",
-      "title": "Jiaozi dumpling night",
-      "desc": "Make, fold and share: pork-and-cabbage and mushroom dumplings.",
+      "title": "Jiaozi-nyytit kahdella täytteellä",
+      "desc": "Itse tehdyt possu-kaali- ja sieni-kaalinyytit, kurkkusalaatti ja dippikastike.",
       "servings": 4,
       "time": "90 min",
-      "split": "24 pork + 8 mushroom dumplings",
+      "split": "24 possunyyttiä + 8 sieninyyttiä",
       "ingredients": [
         {
           "key": "flour",
@@ -1710,25 +1710,25 @@
         }
       ],
       "steps": [
-        "Mix 360 g flour with half a teaspoon salt and 190 ml warm water, adding water a spoonful at a time if needed to form a firm dough. Knead for 8 minutes and cover to rest for 30 minutes. Reserve 20 g flour for rolling.",
-        "Finely chop cabbage, mix with the remaining salt, rest 10 minutes and squeeze dry. Finely chop spring onion, ginger and one garlic clove. Divide these vegetables 3:1 between two bowls. Add pork, 15 ml soy and 5 ml sesame oil to the larger bowl.",
-        "Finely chop mushrooms and fry in 5 ml rapeseed oil until dry; cool. Add to the smaller vegetable bowl with 5 ml soy and 5 ml sesame oil. Keep filling bowls and utensils separate.",
-        "Divide dough into 32 pieces. Roll into thin 10–11 cm circles on the reserved flour. Fill 24 with pork mixture and 8 with mushroom mixture, dividing each filling evenly among its wrappers (about a heaped tablespoon each); pinch tightly shut. Use a different fold for the mushroom batch.",
-        "Cook batches in separate non-stick pans. Use the remaining 25 ml rapeseed oil across the batches. Fry bases for 2 minutes, add water to 5 mm deep and cover. Steam for 8–10 minutes; check pork filling reaches 75°C for 30 seconds. Uncover and let water evaporate to crisp the bases.",
-        "Mix 30 ml soy and 30 ml vinegar with 20 ml water as dipping sauce. Smash and chop cucumber; dress with the remaining 10 ml soy, 10 ml vinegar, 5 ml sesame oil and crushed garlic clove. Serve alongside."
+        "Sekoita 360 g vehnäjauhoa, ½ tl suolaa ja 190 ml lämmintä vettä kiinteäksi taikinaksi. Lisää tarvittaessa vettä lusikallinen kerrallaan. Vaivaa 8 minuuttia. Peitä ja anna levätä 30 minuuttia. Varaa loput 20 g jauhoa kaulimiseen.",
+        "Hienonna kaali ja sekoita loppu suola joukkoon. Anna seistä 10 minuuttia ja purista neste pois. Hienonna kevätsipuli, inkivääri ja yksi valkosipulinkynsi. Jaa nämä kasvikset kahteen kulhoon suhteessa 3:1. Lisää suurempaan annokseen porsaan jauheliha, 15 ml soijakastiketta ja 5 ml seesamiöljyä.",
+        "Hienonna sienet ja paista 5 ml:ssa rypsiöljyä, kunnes neste haihtuu. Anna jäähtyä. Lisää pienempään kasvisannokseen sekä 5 ml soijakastiketta ja 5 ml seesamiöljyä. Pidä täytteet ja niiden työvälineet erillään.",
+        "Jaa taikina 32 palaan ja kauli ohuiksi, halkaisijaltaan 10–11 cm:n ympyröiksi varatun jauhon avulla. Täytä 24 possuseoksella ja 8 sieniseoksella. Jaa täytteet tasan omien kuortensa kesken, noin kukkurallinen ruokalusikallinen kuhunkin. Nipistä tiiviisti kiinni. Taittele sieninyytit eri tavalla, jotta ne erottaa.",
+        "Kypsennä erissä erillisillä tarttumattomilla pannuilla. Jaa loput 25 ml rypsiöljyä paistoeriin. Paista pohjia 2 minuuttia. Lisää pannulle vettä noin 5 mm:n syvyydeltä ja peitä kannella. Höyrytä 8–10 minuuttia. Tarkista, että possutäytteen lämpötila on vähintään 75 °C 30 sekunnin ajan. Poista kansi ja anna veden haihtua, jotta pohjat rapeutuvat.",
+        "Sekoita dippiin 30 ml soijakastiketta, 30 ml riisiviinietikkaa ja 20 ml vettä. Murskaa kurkkua kevyesti ja pilko. Mausta lopulla 10 ml:lla soijakastiketta, 10 ml:lla etikkaa, 5 ml:lla seesamiöljyä ja murskatulla valkosipulinkynnellä. Tarjoa nyyttien kanssa."
       ],
-      "note": "Homemade wrappers avoid relying on frozen dumpling skins. Fold the mushroom batch first. A wide frying pan with a well-fitting lid is sufficient."
+      "note": "Kuoret tehdään tavallisesta vehnäjauhosta. Taittele sieninyytit ensin. Kypsentämiseen riittää leveä paistinpannu ja tiivis kansi."
     },
     {
       "id": "gong-bao",
       "week": "china",
       "day": "Saturday",
       "kind": "Dinner",
-      "title": "Gong bao-style chicken",
-      "desc": "A tangy, glossy stir-fry with peppers; no peanuts added.",
+      "title": "Gong bao -tyylinen kana ilman maapähkinöitä",
+      "desc": "Kana-paprikawokki kirpeänmakeassa kastikkeessa, yhdelle tofuversio.",
       "servings": 4,
       "time": "35 min",
-      "split": "3 chicken + 1 tofu",
+      "split": "3 kana-annosta + 1 tofuannos",
       "ingredients": [
         {
           "key": "chicken",
@@ -1788,23 +1788,23 @@
         }
       ],
       "steps": [
-        "Cook rice according to the packet. Cube chicken and tofu. Mix soy, vinegar, sugar, cornflour and 120 ml water. Reserve one quarter of this clean sauce for the tofu pan.",
-        "Brown tofu in 5 ml oil in a small pan for 6–8 minutes. In a larger pan, stir-fry chicken in 10 ml oil for 7–10 minutes, until it reaches 75°C for 30 seconds. Set each aside in separate bowls.",
-        "Chop peppers and carrots into small pieces. Stir-fry in the remaining 15 ml oil for 5 minutes in a clean pan. Add chopped ginger, garlic and spring onion and fry for 1 minute.",
-        "Divide vegetables 3:1 between the chicken and tofu pans. Stir each reserved sauce before adding. Simmer each for 2–3 minutes until glossy and hot throughout. Serve with rice and chilli flakes separately."
+        "Keitä riisi pakkauksen ohjeen mukaan. Kuutioi broileri ja tofu. Sekoita soijakastike, riisiviinietikka, sokeri, maissitärkkelys ja 120 ml vettä. Ota neljännes puhtaasta kastikkeesta talteen tofupannua varten.",
+        "Ruskista tofu pienellä pannulla 5 ml:ssa öljyä 6–8 minuuttia. Paista broileria suuremmalla pannulla 10 ml:ssa öljyä 7–10 minuuttia, kunnes sisälämpötila on vähintään 75 °C 30 sekunnin ajan. Siirrä molemmat sivuun omiin kulhoihinsa.",
+        "Pilko paprikat ja porkkanat pieniksi paloiksi. Paista puhtaalla pannulla lopussa 15 ml:ssa öljyä 5 minuuttia sekoitellen. Lisää hienonnettu inkivääri, valkosipuli ja kevätsipulit. Paista vielä minuutti.",
+        "Jaa kasvikset kana- ja tofupannuihin suhteessa 3:1. Sekoita kumpikin kastikeannos ennen pannulle lisäämistä. Keitä hiljalleen 2–3 minuuttia, kunnes kastike sakenee ja ruoka on kauttaaltaan kuumaa. Tarjoa riisin kanssa ja chilirouhe erikseen."
       ],
-      "note": "A family adaptation of gong bao: the peanuts are omitted, with no nut replacement needed."
+      "note": "Maapähkinät jätetään pois eikä niitä korvata muilla pähkinöillä."
     },
     {
       "id": "hot-pot",
       "week": "china",
       "day": "Sunday",
       "kind": "Dinner",
-      "title": "The big family hot pot",
-      "desc": "A bubbling vegetable broth, a colourful spread and a little beef pot on the side.",
+      "title": "Hot pot",
+      "desc": "Yhteinen kasvisliemi, tofua, kasviksia ja nuudeleita. Naudanliha kypsennetään omassa kattilassaan.",
       "servings": 4,
-      "time": "45 min + cooking at the table",
-      "split": "Shared meat-free pot + beef for 3",
+      "time": "45 min + kypsentäminen ruokailun aikana",
+      "split": "Kasviskattila kaikille + naudanlihaa kolmelle",
       "ingredients": [
         {
           "key": "stock",
@@ -1872,25 +1872,25 @@
         }
       ],
       "steps": [
-        "You need two pots, separate ladles and tongs, and a safe tabletop cooker; alternatively keep both pots simmering on the hob and serve cooked batches at the table. Keep raw-meat plates and utensils separate from cooked food.",
-        "Simmer stock with sliced ginger, two crushed garlic cloves and half the spring onions for 15 minutes. Transfer 750 ml broth to the separate meat pot; keep 1.75 litres in the shared pot. Bring both to a steady simmer.",
-        "Slice mushrooms, wash and chop pak choi and cabbage, cut carrots very thinly and cube tofu. Arrange on platters. Keep the thinly sliced raw beef refrigerated until cooking. Cook noodles separately according to the packet and divide into bowls.",
-        "Mix soy, vinegar and sesame oil with 50 ml water. Add the remaining finely chopped garlic and spring onions. Divide among dipping bowls and offer sesame seeds and chilli separately.",
-        "Add small batches of mushrooms and carrots to the shared pot; simmer for 4–6 minutes, then add greens and tofu for 3–5 minutes, until hot and tender. Cook beef only in its separate pot in small batches until fully cooked; check a folded thick piece reaches 75°C for 30 seconds. Do not treat a brief dip as sufficient.",
-        "Serve cooked food with noodles and dipping sauces, adding hot water to the pots as the broth reduces. Keep both pots simmering throughout service. Use clean eating utensils, not the raw-meat tongs."
+        "Varaa kaksi kattilaa, erilliset kauhat ja pihdit sekä turvallinen pöytäkeitin. Voit myös pitää kattilat liedellä ja tarjoilla kypsät erät pöytään. Pidä raa’an lihan lautanen ja työvälineet erillään kypsästä ruoasta.",
+        "Hauduta kasvislientä, viipaloitua inkivääriä, kahta murskattua valkosipulinkynttä ja puolta kevätsipulista 15 minuuttia. Siirrä 750 ml lientä lihakattilaan ja jätä 1,75 litraa yhteiseen kattilaan. Pidä molemmat hiljalleen kiehuvina.",
+        "Viipaloi sienet, pese ja pilko paksoi sekä kiinankaali, leikkaa porkkanat hyvin ohuiksi ja kuutioi tofu. Asettele tarjoiluastioihin. Säilytä ohuiksi viipaloitu raaka naudanliha jääkaapissa kypsentämiseen asti. Keitä nuudelit erikseen pakkauksen ohjeen mukaan ja jaa kulhoihin.",
+        "Sekoita soijakastike, riisiviinietikka ja seesamiöljy 50 ml:aan vettä. Lisää loput hienonnetusta valkosipulista ja kevätsipulista. Jaa dippikulhoihin. Tarjoa seesaminsiemenet ja chilirouhe erikseen.",
+        "Kypsennä sieniä ja porkkanoita pienissä erissä yhteisessä kattilassa 4–6 minuuttia. Lisää lehtikasvikset ja tofu ja kypsennä vielä 3–5 minuuttia kuumiksi ja pehmeiksi. Kypsennä naudanliha vain omassa kattilassaan pienissä erissä kauttaaltaan kypsäksi. Tarkista taitetun paksun palan lämpötilaksi vähintään 75 °C 30 sekunnin ajan. Pelkkä nopea kastaminen liemeen ei riitä.",
+        "Tarjoa kypsät ainekset nuudelien ja dippikastikkeiden kanssa. Lisää kattiloihin kuumaa vettä liemen haihtuessa. Pidä molemmat liemet hiljalleen kiehuvina koko ruokailun ajan. Käytä syömiseen puhtaita välineitä, älä raa’an lihan pihtejä."
       ],
-      "note": "Amounts include beef for three and tofu to share with all four. This is a mild, supermarket-friendly hot pot; everyone can season their own dipping bowl."
+      "note": "Määrissä on naudanlihaa kolmelle ja tofua kaikille neljälle. Liemi on mieto; jokainen voi maustaa oman dippinsä."
     },
     {
       "id": "congee",
       "week": "china",
       "day": "Saturday",
       "kind": "Breakfast",
-      "title": "Breakfast congee",
-      "desc": "A gentle rice porridge with eggs, spring onion and crisp onion topping.",
+      "title": "Congee-riisipuuro",
+      "desc": "Suolaista riisipuuroa, kananmunia, kevätsipulia ja rapeaksi paistettua sipulia.",
       "servings": 4,
       "time": "65 min",
-      "split": "Meat-free for everyone",
+      "split": "Kasvisruoka kaikille",
       "ingredients": [
         {
           "key": "rice",
@@ -1930,10 +1930,10 @@
         }
       ],
       "steps": [
-        "Rinse rice, then put in a large saucepan with 1.5 litres water, sliced ginger and salt. Bring to a boil, reduce heat and simmer partly covered for 50–60 minutes, stirring occasionally, until creamy. Add hot water if too thick.",
-        "Boil eggs for 9–10 minutes, cool under cold water, peel and halve. Thinly slice onion and fry in rapeseed oil for 10–15 minutes until golden; drain on kitchen paper.",
-        "Remove ginger slices from the porridge. Divide between four bowls and top with eggs, crisp onions and chopped spring onions.",
-        "Mix soy and sesame oil and let everyone add a little to their bowl."
+        "Huuhtele riisi. Laita suureen kattilaan 1,5 litran vettä, viipaloidun inkiväärin ja suolan kanssa. Kiehauta ja hauduta osittain kannen alla 50–60 minuuttia välillä sekoittaen, kunnes puuro on pehmeää. Lisää kuumaa vettä, jos puuro sakenee liikaa.",
+        "Keitä kananmunia 9–10 minuuttia. Jäähdytä kylmän veden alla, kuori ja puolita. Viipaloi sipuli ohuesti ja paista rypsiöljyssä 10–15 minuuttia kullanruskeaksi. Valuta talouspaperilla.",
+        "Poista inkivääriviipaleet. Jaa puuro neljään kulhoon ja lisää päälle kananmunat, rapea sipuli ja hienonnettu kevätsipuli.",
+        "Sekoita soijakastike ja seesamiöljy. Anna kunkin lisätä seosta omaan annokseensa."
       ],
       "note": ""
     },
@@ -1942,11 +1942,11 @@
       "week": "china",
       "day": "Saturday",
       "kind": "Dessert",
-      "title": "Mango pudding",
-      "desc": "Sunny mango-and-coconut cups, set without gelatine.",
+      "title": "Mango-kookosvanukas",
+      "desc": "Neljä agarilla hyydytettyä jälkiruoka-annosta ilman liivatetta.",
       "servings": 4,
-      "time": "20 min + 3 hr chilling",
-      "split": "Meat-free for everyone",
+      "time": "20 min + jäähdytys 3 h",
+      "split": "Sama jälkiruoka kaikille",
       "ingredients": [
         {
           "key": "mango",
@@ -1966,23 +1966,23 @@
         }
       ],
       "steps": [
-        "Blend thawed mango flesh until smooth and let it reach room temperature. You need about 300 ml purée.",
-        "Whisk agar powder and sugar into coconut milk in a saucepan. Bring to a boil while stirring, then simmer for 2 minutes to dissolve the agar; follow the product’s activation instructions if they differ.",
-        "Quickly whisk in the mango purée over low heat until smooth and steaming. Do not let it cool in the pan. Divide among four small glasses.",
-        "Cool, then refrigerate for at least 3 hours until set. Serve chilled in the glasses."
+        "Soseuta sulatettu mango sileäksi ja anna lämmetä huoneenlämpöiseksi. Sosetta tarvitaan noin 300 ml.",
+        "Vatkaa agarjauhe ja sokeri kookosmaitoon kattilassa. Kuumenna kiehuvaksi sekoittaen ja keitä hiljalleen 2 minuuttia, jotta agar liukenee. Noudata tuotteen omaa käyttöohjetta, jos se poikkeaa tästä.",
+        "Vatkaa mangosose nopeasti joukkoon miedolla lämmöllä, kunnes seos on tasaista ja höyryävän kuumaa. Älä anna jäähtyä kattilassa. Jaa neljään pieneen lasiin.",
+        "Anna jäähtyä ja siirrä jääkaappiin vähintään 3 tunniksi hyytymään. Tarjoa kylmänä laseista."
       ],
-      "note": "Use pure agar powder, not a sweetened gelling mixture. Strength varies by brand; follow the pack dosage for roughly 550 ml mixture if different. K-Ruoka lists Meira agar agar."
+      "note": "Käytä puhdasta agarjauhetta, ei makeutettua hyytelöimisaineseosta. Vahvuus vaihtelee: noudata pakkauksen annostusta noin 550 ml:lle seosta, jos se poikkeaa ohjeesta. K-Ruoan valikoimassa on Meiran agar-agaria."
     },
     {
       "id": "scallion-pancakes",
       "week": "china",
       "day": "Sunday",
       "kind": "Lunch",
-      "title": "Scallion pancakes",
-      "desc": "Flaky, savoury pancakes with a tangy dipping sauce.",
+      "title": "Kevätsipulipannukakut",
+      "desc": "Neljä suolaista pannukakkua ja dippikastike kevyeksi lounaaksi.",
       "servings": 4,
       "time": "50 min",
-      "split": "4 pancakes · light lunch",
+      "split": "4 pannukakkua",
       "ingredients": [
         {
           "key": "flour",
@@ -2014,10 +2014,10 @@
         }
       ],
       "steps": [
-        "Mix 300 g flour with salt. Carefully stir in 180 ml freshly boiled water. When cool enough to handle, knead for 5 minutes until smooth; cover and rest for 20 minutes. Reserve 20 g flour for rolling.",
-        "Divide into four. Roll each into a thin rectangle, brush with some of 25 ml oil and scatter with chopped spring onions. Roll into a log, coil into a spiral and flatten gently. Rest for 5 minutes, then roll into 16–18 cm discs.",
-        "Use the remaining 30 ml oil to pan-fry the pancakes over medium heat for 3–4 minutes per side, until golden and cooked inside. Press lightly with a spatula as they cook.",
-        "Mix soy, vinegar, sesame oil and 20 ml water. Cut pancakes into wedges and serve with the dipping sauce."
+        "Sekoita 300 g jauhoa ja suola. Lisää varovasti 180 ml vastakiehautettua vettä. Kun taikinaa voi käsitellä, vaivaa 5 minuuttia sileäksi. Peitä ja anna levätä 20 minuuttia. Varaa loput 20 g jauhoa kaulimiseen.",
+        "Jaa neljään osaan. Kauli kukin ohueksi suorakulmioksi. Jaa 25 ml öljyä levyjen voiteluun ja ripottele päälle hienonnettu kevätsipuli. Rullaa pötköksi, kierrä spiraaliksi ja litistä varovasti. Anna levätä 5 minuuttia ja kauli halkaisijaltaan 16–18 cm:n levyiksi.",
+        "Jaa loput 30 ml öljyä paistamiseen. Paista pannukakkuja keskilämmöllä 3–4 minuuttia kummaltakin puolelta, kunnes ne ovat kullanruskeita ja sisältä kypsiä. Paina kevyesti lastalla paistamisen aikana.",
+        "Sekoita soijakastike, riisiviinietikka, seesamiöljy ja 20 ml vettä. Leikkaa pannukakut lohkoiksi ja tarjoa dipin kanssa."
       ],
       "note": ""
     },
@@ -2026,11 +2026,11 @@
       "week": "china",
       "day": "Sunday",
       "kind": "Dessert",
-      "title": "Sesame biscuits & ice cream",
-      "desc": "A simple sesame-scented finale using everyday baking ingredients.",
+      "title": "Seesamikeksit ja vaniljajäätelö",
+      "desc": "Helppo vaihtoehto seesamipalloille, ilman erikoisjauhoja.",
       "servings": 4,
       "time": "30 min",
-      "split": "Makes about 12 biscuits · replaces sesame balls",
+      "split": "Noin 12 keksiä neljälle",
       "ingredients": [
         {
           "key": "flour",
@@ -2062,524 +2062,524 @@
         }
       ],
       "steps": [
-        "Heat the oven to 170°C fan. Beat softened butter and sugar until creamy. Mix flour with baking powder and 25 g sesame seeds, then stir into the butter with the milk to make a soft dough.",
-        "Divide into twelve balls and flatten on a lined tray, leaving space between them. Press the remaining 15 g sesame seeds onto the tops.",
-        "Bake for 14–18 minutes until the edges are pale gold. Leave on the tray for 5 minutes, then cool on a rack.",
-        "Serve three biscuits each with vanilla ice cream."
+        "Lämmitä kiertoilmauuni 170 asteeseen. Vatkaa pehmeä voi ja sokeri vaahdoksi. Sekoita jauhot, leivinjauhe ja 25 g seesaminsiemeniä. Lisää voiseokseen maidon kanssa ja sekoita pehmeäksi taikinaksi.",
+        "Jaa kahteentoista palloon ja litistä leivinpaperilla vuoratulle pellille. Jätä keksien väliin tilaa. Painele loput 15 g seesaminsiemeniä pintaan.",
+        "Paista 14–18 minuuttia, kunnes reunat ovat vaalean kullanruskeat. Anna jäähtyä pellillä 5 minuuttia ja siirrä sitten ritilälle.",
+        "Tarjoa kolme keksiä kullekin vaniljajäätelön kanssa."
       ],
-      "note": "An easy family substitution for sesame balls, not a traditional version of that dish. Sesame remains an ingredient; only peanuts are excluded."
+      "note": "Seesamikeksit korvaavat aiemmin suunnitellut seesamipallot. Resepti sisältää seesamia; maapähkinää ei käytetä."
     }
   ],
   "ingredients": {
     "agar": {
-      "label": "Agar-agar powder",
+      "label": "Agar-agar-jauhe",
       "unit": "g",
-      "group": "Rice, flour & baking"
+      "group": "Riisi, jauhot ja leivonta"
     },
     "apple": {
-      "label": "Apples",
+      "label": "Omena",
       "unit": "g",
-      "group": "Vegetables & fruit"
+      "group": "Kasvikset ja hedelmät"
     },
     "aubergine": {
-      "label": "Aubergines",
+      "label": "Munakoiso",
       "unit": "g",
-      "group": "Vegetables & fruit"
+      "group": "Kasvikset ja hedelmät"
     },
     "bacon": {
-      "label": "Bacon",
+      "label": "Pekoni",
       "unit": "g",
-      "group": "Meat, fish & alternatives"
+      "group": "Liha, kala ja kasviproteiinit"
     },
     "bakedbeans": {
-      "label": "Baked beans",
+      "label": "Valkoiset pavut tomaattikastikkeessa",
       "unit": "g",
-      "group": "Tins & freezer"
+      "group": "Säilykkeet ja pakasteet"
     },
     "baking": {
-      "label": "Baking powder",
+      "label": "Leivinjauhe",
       "unit": "tsp",
-      "group": "Rice, flour & baking"
+      "group": "Riisi, jauhot ja leivonta"
     },
     "basmati": {
-      "label": "Basmati rice (dry)",
+      "label": "Basmatiriisi (kuiva)",
       "unit": "g",
-      "group": "Rice, flour & baking"
+      "group": "Riisi, jauhot ja leivonta"
     },
     "bay": {
-      "label": "Bay leaves",
+      "label": "Laakerinlehdet",
       "unit": "whole",
-      "group": "Spices & seasoning"
+      "group": "Mausteet"
     },
     "beanpaste": {
-      "label": "Vegan miso paste",
+      "label": "Vegaaninen misotahna",
       "unit": "g",
-      "group": "Oils, sauces & pantry"
+      "group": "Öljyt, kastikkeet ja muut kuiva-aineet"
     },
     "beef": {
-      "label": "Stewing beef",
+      "label": "Naudan pataliha",
       "unit": "g",
-      "group": "Meat, fish & alternatives"
+      "group": "Liha, kala ja kasviproteiinit"
     },
     "bicarb": {
-      "label": "Bicarbonate of soda",
+      "label": "Ruokasooda",
       "unit": "tsp",
-      "group": "Rice, flour & baking"
+      "group": "Riisi, jauhot ja leivonta"
     },
     "blackpepper": {
-      "label": "Black pepper",
+      "label": "Mustapippuri",
       "unit": "tsp",
-      "group": "Spices & seasoning"
+      "group": "Mausteet"
     },
     "bread": {
-      "label": "Crusty / sliced bread",
+      "label": "Leipä",
       "unit": "g",
-      "group": "Bakery & chilled"
+      "group": "Leivät ja taikinat"
     },
     "brownsugar": {
-      "label": "Brown sugar",
+      "label": "Fariinisokeri",
       "unit": "g",
-      "group": "Rice, flour & baking"
+      "group": "Riisi, jauhot ja leivonta"
     },
     "butter": {
-      "label": "Butter",
+      "label": "Voi",
       "unit": "g",
-      "group": "Dairy & eggs"
+      "group": "Maitotuotteet ja kananmunat"
     },
     "cabbage": {
-      "label": "Chinese cabbage",
+      "label": "Kiinankaali",
       "unit": "g",
-      "group": "Vegetables & fruit"
+      "group": "Kasvikset ja hedelmät"
     },
     "caper": {
-      "label": "Capers",
+      "label": "Kaprikset",
       "unit": "g",
-      "group": "Oils, sauces & pantry"
+      "group": "Öljyt, kastikkeet ja muut kuiva-aineet"
     },
     "carrot": {
-      "label": "Carrots",
+      "label": "Porkkana",
       "unit": "g",
-      "group": "Vegetables & fruit"
+      "group": "Kasvikset ja hedelmät"
     },
     "cauliflower": {
-      "label": "Cauliflower (trimmed)",
+      "label": "Kukkakaali (puhdistettuna)",
       "unit": "g",
-      "group": "Vegetables & fruit"
+      "group": "Kasvikset ja hedelmät"
     },
     "celery": {
-      "label": "Celery",
+      "label": "Varsiselleri",
       "unit": "g",
-      "group": "Vegetables & fruit"
+      "group": "Kasvikset ja hedelmät"
     },
     "cheddar": {
       "label": "Cheddar",
       "unit": "g",
-      "group": "Dairy & eggs"
+      "group": "Maitotuotteet ja kananmunat"
     },
     "chicken": {
-      "label": "Boneless chicken",
+      "label": "Broilerin luuton liha",
       "unit": "g",
-      "group": "Meat, fish & alternatives"
+      "group": "Liha, kala ja kasviproteiinit"
     },
     "chilli": {
-      "label": "Chilli flakes (serve separately)",
+      "label": "Chilirouhe (tarjolle erikseen)",
       "unit": "g",
-      "group": "Oils, sauces & pantry"
+      "group": "Öljyt, kastikkeet ja muut kuiva-aineet"
     },
     "cinnamon": {
-      "label": "Ground cinnamon",
+      "label": "Jauhettu kaneli",
       "unit": "tsp",
-      "group": "Spices & seasoning"
+      "group": "Mausteet"
     },
     "coconut": {
-      "label": "Coconut milk",
+      "label": "Kookosmaito",
       "unit": "ml",
-      "group": "Tins & freezer"
+      "group": "Säilykkeet ja pakasteet"
     },
     "cod": {
-      "label": "Boneless cod or haddock fillets",
+      "label": "Ruodoton turska- tai koljafilee",
       "unit": "g",
-      "group": "Meat, fish & alternatives"
+      "group": "Liha, kala ja kasviproteiinit"
     },
     "coriander": {
-      "label": "Ground coriander",
+      "label": "Jauhettu korianteri",
       "unit": "tsp",
-      "group": "Spices & seasoning"
+      "group": "Mausteet"
     },
     "cornflour": {
-      "label": "Cornflour",
+      "label": "Maissitärkkelys",
       "unit": "g",
-      "group": "Rice, flour & baking"
+      "group": "Riisi, jauhot ja leivonta"
     },
     "cream": {
-      "label": "Double cream",
+      "label": "Kuohukerma",
       "unit": "ml",
-      "group": "Dairy & eggs"
+      "group": "Maitotuotteet ja kananmunat"
     },
     "cucumber": {
-      "label": "Cucumber",
+      "label": "Kurkku",
       "unit": "g",
-      "group": "Vegetables & fruit"
+      "group": "Kasvikset ja hedelmät"
     },
     "cumin": {
-      "label": "Ground cumin",
+      "label": "Juustokumina",
       "unit": "tsp",
-      "group": "Spices & seasoning"
+      "group": "Mausteet"
     },
     "custard": {
-      "label": "Ready-made custard",
+      "label": "Valmis vaniljakastike",
       "unit": "ml",
-      "group": "Tins & freezer"
+      "group": "Säilykkeet ja pakasteet"
     },
     "date": {
-      "label": "Pitted dates",
+      "label": "Kivettömät taatelit",
       "unit": "g",
-      "group": "Rice, flour & baking"
+      "group": "Riisi, jauhot ja leivonta"
     },
     "dill": {
-      "label": "Fresh dill",
+      "label": "Tuore tilli",
       "unit": "g",
-      "group": "Vegetables & fruit"
+      "group": "Kasvikset ja hedelmät"
     },
     "egg": {
-      "label": "Eggs",
+      "label": "Kananmunat",
       "unit": "whole",
-      "group": "Dairy & eggs"
+      "group": "Maitotuotteet ja kananmunat"
     },
     "feta": {
       "label": "Feta",
       "unit": "g",
-      "group": "Dairy & eggs"
+      "group": "Maitotuotteet ja kananmunat"
     },
     "filo": {
-      "label": "Filo pastry",
+      "label": "Filotaikina",
       "unit": "g",
-      "group": "Bakery & chilled"
+      "group": "Leivät ja taikinat"
     },
     "flour": {
-      "label": "Plain flour",
+      "label": "Vehnäjauho",
       "unit": "g",
-      "group": "Rice, flour & baking"
+      "group": "Riisi, jauhot ja leivonta"
     },
     "garam": {
       "label": "Garam masala",
       "unit": "tsp",
-      "group": "Spices & seasoning"
+      "group": "Mausteet"
     },
     "garlic": {
-      "label": "Garlic cloves",
+      "label": "Valkosipulinkynnet",
       "unit": "whole",
-      "group": "Vegetables & fruit"
+      "group": "Kasvikset ja hedelmät"
     },
     "gherkin": {
-      "label": "Gherkins",
+      "label": "Maustekurkut",
       "unit": "g",
-      "group": "Oils, sauces & pantry"
+      "group": "Öljyt, kastikkeet ja muut kuiva-aineet"
     },
     "ginger": {
-      "label": "Fresh ginger",
+      "label": "Tuore inkivääri",
       "unit": "g",
-      "group": "Vegetables & fruit"
+      "group": "Kasvikset ja hedelmät"
     },
     "halloumi": {
       "label": "Halloumi",
       "unit": "g",
-      "group": "Meat, fish & alternatives"
+      "group": "Liha, kala ja kasviproteiinit"
     },
     "hoisin": {
-      "label": "Hoisin sauce (no peanut ingredients)",
+      "label": "Hoisinkastike (ei maapähkinää)",
       "unit": "g",
-      "group": "Oils, sauces & pantry"
+      "group": "Öljyt, kastikkeet ja muut kuiva-aineet"
     },
     "honey": {
-      "label": "Honey",
+      "label": "Hunaja",
       "unit": "g",
-      "group": "Oils, sauces & pantry"
+      "group": "Öljyt, kastikkeet ja muut kuiva-aineet"
     },
     "hotbeef": {
-      "label": "Thinly sliced beef for hot pot",
+      "label": "Naudanliha ohuina viipaleina",
       "unit": "g",
-      "group": "Meat, fish & alternatives"
+      "group": "Liha, kala ja kasviproteiinit"
     },
     "icecream": {
-      "label": "Vanilla ice cream",
+      "label": "Vaniljajäätelö",
       "unit": "g",
-      "group": "Tins & freezer"
+      "group": "Säilykkeet ja pakasteet"
     },
     "jam": {
-      "label": "Jam",
+      "label": "Hillo",
       "unit": "g",
-      "group": "Oils, sauces & pantry"
+      "group": "Öljyt, kastikkeet ja muut kuiva-aineet"
     },
     "leek": {
-      "label": "Leeks",
+      "label": "Purjo",
       "unit": "g",
-      "group": "Vegetables & fruit"
+      "group": "Kasvikset ja hedelmät"
     },
     "lemon": {
-      "label": "Lemons",
+      "label": "Sitruuna",
       "unit": "whole",
-      "group": "Vegetables & fruit"
+      "group": "Kasvikset ja hedelmät"
     },
     "lentil": {
-      "label": "Tinned green or brown lentils",
+      "label": "Vihreät tai ruskeat säilykelinssit",
       "unit": "g drained",
-      "group": "Tins & freezer"
+      "group": "Säilykkeet ja pakasteet"
     },
     "malt": {
-      "label": "Malt vinegar",
+      "label": "Mallasetikka",
       "unit": "ml",
-      "group": "Oils, sauces & pantry"
+      "group": "Öljyt, kastikkeet ja muut kuiva-aineet"
     },
     "mango": {
-      "label": "Mango flesh (fresh or frozen)",
+      "label": "Mango (hedelmäliha, tuore tai pakaste)",
       "unit": "g",
-      "group": "Vegetables & fruit"
+      "group": "Kasvikset ja hedelmät"
     },
     "mayo": {
-      "label": "Mayonnaise",
+      "label": "Majoneesi",
       "unit": "g",
-      "group": "Oils, sauces & pantry"
+      "group": "Öljyt, kastikkeet ja muut kuiva-aineet"
     },
     "milk": {
-      "label": "Milk",
+      "label": "Maito",
       "unit": "ml",
-      "group": "Dairy & eggs"
+      "group": "Maitotuotteet ja kananmunat"
     },
     "mince": {
-      "label": "Minced beef",
+      "label": "Naudan jauheliha",
       "unit": "g",
-      "group": "Meat, fish & alternatives"
+      "group": "Liha, kala ja kasviproteiinit"
     },
     "mushroom": {
-      "label": "Mushrooms",
+      "label": "Herkkusienet",
       "unit": "g",
-      "group": "Vegetables & fruit"
+      "group": "Kasvikset ja hedelmät"
     },
     "mustard": {
-      "label": "Dijon mustard",
+      "label": "Dijon-sinappi",
       "unit": "g",
-      "group": "Oils, sauces & pantry"
+      "group": "Öljyt, kastikkeet ja muut kuiva-aineet"
     },
     "naan": {
-      "label": "Naan breads",
+      "label": "Naanleivät",
       "unit": "pieces",
-      "group": "Bakery & chilled"
+      "group": "Leivät ja taikinat"
     },
     "noodles": {
-      "label": "Wheat noodles (dry)",
+      "label": "Vehnänuudelit (kuiva)",
       "unit": "g",
-      "group": "Rice, flour & baking"
+      "group": "Riisi, jauhot ja leivonta"
     },
     "nutmeg": {
-      "label": "Ground nutmeg",
+      "label": "Jauhettu muskottipähkinä",
       "unit": "tsp",
-      "group": "Spices & seasoning"
+      "group": "Mausteet"
     },
     "oil": {
-      "label": "Rapeseed oil (including frying oil)",
+      "label": "Rypsiöljy (myös uppopaistoon)",
       "unit": "ml",
-      "group": "Oils, sauces & pantry"
+      "group": "Öljyt, kastikkeet ja muut kuiva-aineet"
     },
     "olive": {
-      "label": "Olive oil",
+      "label": "Oliiviöljy",
       "unit": "ml",
-      "group": "Oils, sauces & pantry"
+      "group": "Öljyt, kastikkeet ja muut kuiva-aineet"
     },
     "onion": {
-      "label": "Onions",
+      "label": "Sipuli",
       "unit": "g",
-      "group": "Vegetables & fruit"
+      "group": "Kasvikset ja hedelmät"
     },
     "oregano": {
-      "label": "Dried oregano",
+      "label": "Kuivattu oregano",
       "unit": "tsp",
-      "group": "Spices & seasoning"
+      "group": "Mausteet"
     },
     "orzo": {
-      "label": "Orzo (dry)",
+      "label": "Orzo-jyväpasta (kuiva)",
       "unit": "g",
-      "group": "Rice, flour & baking"
+      "group": "Riisi, jauhot ja leivonta"
     },
     "pakchoi": {
-      "label": "Pak choi",
+      "label": "Paksoi",
       "unit": "g",
-      "group": "Vegetables & fruit"
+      "group": "Kasvikset ja hedelmät"
     },
     "paneer": {
-      "label": "Paneer",
+      "label": "Paneerjuusto",
       "unit": "g",
-      "group": "Meat, fish & alternatives"
+      "group": "Liha, kala ja kasviproteiinit"
     },
     "paprika": {
-      "label": "Paprika",
+      "label": "Paprikajauhe",
       "unit": "tsp",
-      "group": "Spices & seasoning"
+      "group": "Mausteet"
     },
     "parsley": {
-      "label": "Fresh parsley",
+      "label": "Tuore persilja",
       "unit": "g",
-      "group": "Vegetables & fruit"
+      "group": "Kasvikset ja hedelmät"
     },
     "peas": {
-      "label": "Frozen peas",
+      "label": "Pakasteherneet",
       "unit": "g",
-      "group": "Tins & freezer"
+      "group": "Säilykkeet ja pakasteet"
     },
     "pepper": {
-      "label": "Bell peppers",
+      "label": "Paprika",
       "unit": "g",
-      "group": "Vegetables & fruit"
+      "group": "Kasvikset ja hedelmät"
     },
     "pita": {
-      "label": "Pita breads",
+      "label": "Pitaleivät",
       "unit": "pieces",
-      "group": "Bakery & chilled"
+      "group": "Leivät ja taikinat"
     },
     "pork": {
-      "label": "Pork shoulder, boneless",
+      "label": "Luuton porsaan kassler",
       "unit": "g",
-      "group": "Meat, fish & alternatives"
+      "group": "Liha, kala ja kasviproteiinit"
     },
     "porkmince": {
-      "label": "Minced pork",
+      "label": "Porsaan jauheliha",
       "unit": "g",
-      "group": "Meat, fish & alternatives"
+      "group": "Liha, kala ja kasviproteiinit"
     },
     "potato": {
-      "label": "Potatoes",
+      "label": "Peruna",
       "unit": "g",
-      "group": "Vegetables & fruit"
+      "group": "Kasvikset ja hedelmät"
     },
     "prawn": {
-      "label": "Raw peeled prawns",
+      "label": "Raa’at kuoritut katkaravut",
       "unit": "g",
-      "group": "Meat, fish & alternatives"
+      "group": "Liha, kala ja kasviproteiinit"
     },
     "puree": {
-      "label": "Tomato purée",
+      "label": "Tomaattipyree",
       "unit": "g",
-      "group": "Tins & freezer"
+      "group": "Säilykkeet ja pakasteet"
     },
     "redonion": {
-      "label": "Red onions",
+      "label": "Punasipuli",
       "unit": "g",
-      "group": "Vegetables & fruit"
+      "group": "Kasvikset ja hedelmät"
     },
     "rice": {
-      "label": "Jasmine rice (dry)",
+      "label": "Jasmiiniriisi (kuiva)",
       "unit": "g",
-      "group": "Rice, flour & baking"
+      "group": "Riisi, jauhot ja leivonta"
     },
     "salad": {
-      "label": "Salad leaves",
+      "label": "Salaatinlehdet",
       "unit": "g",
-      "group": "Vegetables & fruit"
+      "group": "Kasvikset ja hedelmät"
     },
     "salt": {
-      "label": "Salt",
+      "label": "Suola",
       "unit": "tsp",
-      "group": "Spices & seasoning"
+      "group": "Mausteet"
     },
     "sausage": {
-      "label": "Pork sausages",
+      "label": "Porsaan raakamakkara",
       "unit": "g",
-      "group": "Meat, fish & alternatives"
+      "group": "Liha, kala ja kasviproteiinit"
     },
     "sesame": {
-      "label": "Sesame seeds",
+      "label": "Seesaminsiemenet",
       "unit": "g",
-      "group": "Rice, flour & baking"
+      "group": "Riisi, jauhot ja leivonta"
     },
     "sesameoil": {
-      "label": "Toasted sesame oil",
+      "label": "Paahdettu seesamiöljy",
       "unit": "ml",
-      "group": "Oils, sauces & pantry"
+      "group": "Öljyt, kastikkeet ja muut kuiva-aineet"
     },
     "softtofu": {
-      "label": "Soft tofu",
+      "label": "Pehmeä tofu",
       "unit": "g",
-      "group": "Meat, fish & alternatives"
+      "group": "Liha, kala ja kasviproteiinit"
     },
     "soy": {
-      "label": "Soy sauce",
+      "label": "Soijakastike",
       "unit": "ml",
-      "group": "Oils, sauces & pantry"
+      "group": "Öljyt, kastikkeet ja muut kuiva-aineet"
     },
     "spinach": {
-      "label": "Frozen chopped spinach",
+      "label": "Pakastepinaatti",
       "unit": "g",
-      "group": "Vegetables & fruit"
+      "group": "Kasvikset ja hedelmät"
     },
     "spring": {
-      "label": "Spring onions",
+      "label": "Kevätsipuli",
       "unit": "g",
-      "group": "Vegetables & fruit"
+      "group": "Kasvikset ja hedelmät"
     },
     "stock": {
-      "label": "Vegetable stock (from cubes or concentrate)",
+      "label": "Kasvisliemi (valmiiksi laimennettu)",
       "unit": "ml prepared",
-      "group": "Oils, sauces & pantry"
+      "group": "Öljyt, kastikkeet ja muut kuiva-aineet"
     },
     "sugar": {
-      "label": "Caster sugar",
+      "label": "Sokeri",
       "unit": "g",
-      "group": "Rice, flour & baking"
+      "group": "Riisi, jauhot ja leivonta"
     },
     "thyme": {
-      "label": "Dried thyme",
+      "label": "Kuivattu timjami",
       "unit": "tsp",
-      "group": "Spices & seasoning"
+      "group": "Mausteet"
     },
     "tintomato": {
-      "label": "Tinned chopped tomatoes",
+      "label": "Tomaattimurska",
       "unit": "g",
-      "group": "Tins & freezer"
+      "group": "Säilykkeet ja pakasteet"
     },
     "tofu": {
-      "label": "Firm tofu",
+      "label": "Kiinteä tofu",
       "unit": "g",
-      "group": "Meat, fish & alternatives"
+      "group": "Liha, kala ja kasviproteiinit"
     },
     "tomato": {
-      "label": "Tomatoes",
+      "label": "Tomaatti",
       "unit": "g",
-      "group": "Vegetables & fruit"
+      "group": "Kasvikset ja hedelmät"
     },
     "turmeric": {
-      "label": "Turmeric",
+      "label": "Kurkuma",
       "unit": "tsp",
-      "group": "Spices & seasoning"
+      "group": "Mausteet"
     },
     "vanilla": {
-      "label": "Vanilla extract",
+      "label": "Vaniljauute",
       "unit": "tsp",
-      "group": "Rice, flour & baking"
+      "group": "Riisi, jauhot ja leivonta"
     },
     "vegsausage": {
-      "label": "Vegetarian sausages",
+      "label": "Kasvismakkara",
       "unit": "g",
-      "group": "Meat, fish & alternatives"
+      "group": "Liha, kala ja kasviproteiinit"
     },
     "vinegar": {
-      "label": "Rice vinegar",
+      "label": "Riisiviinietikka",
       "unit": "ml",
-      "group": "Oils, sauces & pantry"
+      "group": "Öljyt, kastikkeet ja muut kuiva-aineet"
     },
     "whitebean": {
-      "label": "Tinned white beans",
+      "label": "Valkoiset säilykepavut",
       "unit": "g drained",
-      "group": "Tins & freezer"
+      "group": "Säilykkeet ja pakasteet"
     },
     "yeast": {
-      "label": "Instant dried yeast",
+      "label": "Kuivahiiva",
       "unit": "tsp",
-      "group": "Rice, flour & baking"
+      "group": "Riisi, jauhot ja leivonta"
     },
     "yogurt": {
-      "label": "Greek yogurt",
+      "label": "Kreikkalainen jogurtti",
       "unit": "g",
-      "group": "Dairy & eggs"
+      "group": "Maitotuotteet ja kananmunat"
     }
   },
   "shopping": {

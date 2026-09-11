@@ -6,7 +6,7 @@ PRODUCTS={
 'orzo':('Filos orzo jyväpasta 500 g','filos-orzo-jyvapasta-500g-6416710060069'),
 'paneer':('Apetina Paneer 225 g','apetina-paneer-225g-ruoanlaittojuusto-5711953081699'),
 'hoisin':('Spice Up Hoi sin kastike 260 g','spice-up-hoi-sin-kastike-260g-6430011813346'),
-'beanpaste':('House of Asia Miso paste 120 g dark dashi (catalogued vegan)','house-of-asia-miso-paste-120g-dark-dashi-5904358553537'),
+'beanpaste':('House of Asia Miso paste 120 g dark dashi (tuotetiedoissa vegaaninen)','house-of-asia-miso-paste-120g-dark-dashi-5904358553537'),
 'agar':('Meira Agar Agar 60 g','meira-agar-agar-60g-hyyteloimisjauhe-6420101883564'),
 }
 # These are planning pack sizes, not a claim about current stock or exact products.

@@ -3,3 +3,42 @@
 
 .ingredients .quantity{white-space:normal;max-width:45%;text-align:right;flex-shrink:0}.shop-row label .quantity{white-space:normal;max-width:45%;text-align:right;flex-shrink:0}
 h1,h2,h3{overflow-wrap:anywhere;hyphens:auto}
+
+/* Food illustrations and cookbook details. */
+body{background-image:radial-gradient(#315f5009 .7px,transparent .7px);background-size:7px 7px}
+.dish-image{width:100%;height:auto;aspect-ratio:3/2;object-fit:cover}
+.food-collage{position:relative;min-height:480px;isolation:isolate}
+.food-collage:before{content:'';position:absolute;inset:24px 0 0 22px;border-radius:46% 48% 42% 45%;background-color:var(--wash);background-image:linear-gradient(90deg,#fff6 50%,transparent 50%),linear-gradient(#fff6 50%,transparent 50%);background-size:28px 28px;z-index:-1}
+.food-postcard{position:absolute;display:block;padding:9px 9px 0;background:var(--white);border:1px solid #d6ceb9;box-shadow:0 10px 24px #203c3318;text-decoration:none;width:68%;border-radius:4px}
+.food-postcard img{border-radius:2px}.food-postcard span{display:block;text-align:center;font:italic 1.1rem Georgia;padding:10px;color:var(--ink)}
+.postcard-greece{top:0;left:2%;transform:rotate(-7deg);z-index:1}.postcard-uk{right:0;top:140px;transform:rotate(7deg);z-index:2}.postcard-china{bottom:0;left:0;transform:rotate(-3deg);z-index:3}
+.food-postcard:hover,.food-postcard:focus-visible{z-index:4;box-shadow:0 12px 30px #203c3330}
+.hero-art.country-photo{border-radius:8px;padding:12px;background:var(--white);border:1px solid #d6ceb9;box-shadow:12px 14px 0 var(--wash);transform:rotate(2deg)}
+.hero-art.country-photo img{aspect-ratio:3/2;height:auto;object-fit:cover;border-radius:3px}
+.hero-art.country-photo .stamp{right:8px;bottom:-24px;outline:3px double var(--accent);outline-offset:-7px}
+.card-art{padding:0;height:auto;aspect-ratio:3/2;border-bottom:4px double var(--accent)}
+.card-art img{object-fit:cover;aspect-ratio:3/2;height:auto}
+.country-card{box-shadow:0 5px 0 #203c3308;border-radius:12px 12px 22px 22px}
+.card-body{background-image:linear-gradient(90deg,transparent 0 95%,#315f5005 95%);background-size:20px 100%}
+.section-head h2:after{content:'';display:block;width:70px;border-bottom:4px double var(--accent);margin-top:18px}
+.ribbon{background-image:linear-gradient(90deg,#fff5 50%,transparent 50%),linear-gradient(#fff5 50%,transparent 50%);background-size:28px 28px}
+.day{grid-template-columns:1fr;gap:18px;border-radius:12px;padding:22px;box-shadow:0 4px 0 #203c3306}
+.day-name{display:flex;gap:14px;align-items:center;border-bottom:1px dashed var(--line);padding-bottom:12px}.day-name span{margin:0}
+.meal{display:grid;grid-template-columns:200px minmax(0,1fr);gap:20px;align-items:start}
+.meal-image{display:block;border:5px solid var(--paper);outline:1px solid var(--line);border-radius:4px;overflow:hidden;margin:3px 0}
+.meal-image img{height:auto;aspect-ratio:3/2;object-fit:cover}
+.meal-copy{min-width:0}.meal-copy h3{font-size:1.55rem}
+.aside{border:5px solid var(--wash);outline:1px dashed var(--accent);outline-offset:-12px}
+.recipe-top{max-width:none;display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1fr);gap:44px;align-items:center;padding:50px 0}
+.recipe-top h1{font-size:clamp(2.5rem,4.5vw,4.1rem)}
+.recipe-photo{margin:0;padding:12px;border:1px solid #d6ceb9;background:var(--white);border-radius:5px;transform:rotate(1.5deg);box-shadow:10px 12px 0 var(--wash)}
+.recipe-photo img{border-radius:3px}
+.ingredients{border-top:5px double var(--accent);border-radius:6px 6px 22px 22px}
+.image-credit{font-size:.75rem}.footer{background-color:var(--wash);border-top:4px double var(--line)}
+@media(max-width:1050px){.food-collage{min-height:405px}.postcard-uk{top:115px}.meal{grid-template-columns:160px minmax(0,1fr)}}
+@media(max-width:900px){.food-collage{min-height:355px}.postcard-uk{top:100px}.recipe-top{gap:24px}.meal{grid-template-columns:220px minmax(0,1fr)}}
+@media(max-width:650px){.food-collage{min-height:390px;width:100%;max-width:400px;margin:auto}.food-postcard{width:68%}.postcard-uk{top:118px}.hero-art.country-photo{max-width:420px;margin:8px auto 22px}.meal{grid-template-columns:1fr;gap:14px}.meal-image{max-width:none;margin:0}.day{padding:18px}.recipe-top{grid-template-columns:1fr;padding:30px 0 40px;gap:18px}.recipe-top h1{font-size:2.75rem}.recipe-photo{margin:0 6px 0 0;padding:8px;transform:none}.recipe-top .actions{margin-bottom:8px}.card-art{height:auto}.food-collage:before{inset:20px 5px 0}.aside{padding:24px}.day-name{flex-wrap:wrap;gap:4px 14px}}
+@media(max-width:360px){.food-collage{min-height:345px}.postcard-uk{top:100px}}
+@media print{body{background-image:none}.food-collage,.recipe-photo,.meal-image,.card-art{display:none!important}.recipe-top,.meal{display:block}.recipe-top{padding:12px 0}.day,.country-card{box-shadow:none}.day-name{padding-bottom:8px}.ingredients{border:1px solid #aaa}.section-head h2:after{display:none}}
+/* Keep country labels readable where the cards overlap. */
+.food-postcard{padding:9px}.food-postcard span{position:absolute;top:17px;left:17px;padding:5px 12px;background:#fffdf7f2;border:1px solid #d6ceb9;border-radius:3px;font-size:1rem}

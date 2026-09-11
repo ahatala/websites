@@ -33,3 +33,9 @@ Run `python3 -m http.server 8765 --bind 127.0.0.1` and open http://127.0.0.1:876
 `validate.py` checks local links and anchors, the agreed dinner schedule, attendance, key dietary choices and shopping-list coverage/totals. Browser checks additionally covered all pages at desktop and phone widths, checklist persistence and isolation, scorecard persistence, copy/download and print layouts.
 
 Recipes are written as family adaptations, not represented as professionally kitchen-tested recipes. The hot-pot recipe links to a setup reference; cooking-temperature guidance links to GOV.UK. The K-Ruoka product links are shopping references, not recipe attribution or a guarantee of availability or allergen suitability.
+
+## Food illustrations
+
+Each of the 30 recipes has its own illustration generated with the built-in ImageGen tool. The images depict the planned dishes and separate meat-free portions where relevant, in a consistent gouache cookbook style. They are illustrations, not photographs of tested recipes.
+
+The committed assets are in `assets/dishes/`: each dish has a 1200 × 800 JPEG and a 480 × 320 `-small.jpg` variant. Templates use responsive `srcset`, fixed aspect ratios and lazy loading below the fold. Images are omitted from print layouts. `assets/dishes/prompts.json` records the final prompt for every illustration. Original generated PNGs were retained in the local ImageGen output directory; the site needs only the committed JPEGs. Rebuilding the HTML does not regenerate images.

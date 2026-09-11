@@ -1,0 +1,186 @@
+{
+  "generator": "Built-in ImageGen tool",
+  "style": "Gouache cookbook illustrations",
+  "images": [
+    {
+      "id": "souvlaki",
+      "file": "souvlaki.jpg",
+      "thumbnail": "souvlaki-small.jpg",
+      "prompt": "Use case: illustration-story. Create ONE finished food illustration for a Finnish family recipe website, landscape 3:2 composition. Subject: Greek souvlaki meal, grilled golden chicken pieces on skewers with a separate small portion of grilled halloumi, soft pita breads, tzatziki in a little bowl, cucumber and tomato salad, lemon wedges. Art direction: richly textured hand-painted gouache cookbook illustration, appetizing realistic food shapes, warm cream paper, muted forest green, terracotta and golden yellow palette; gentle daylight, three-quarter overhead view, lovely handmade ceramic plates. Food is the focus, generous detail; all important food comfortably inside the frame with breathing room for cropping. No people, no lettering, no labels, no watermark. No peanuts or salmon. Produce a single image, not a collage or grid."
+    },
+    {
+      "id": "spanakopita",
+      "file": "spanakopita.jpg",
+      "thumbnail": "spanakopita-small.jpg",
+      "prompt": "Use case: illustration-story. Asset: one landscape 3:2 food image for a Finnish family recipe website. Style: richly textured hand-painted gouache cookbook illustration with realistic appetizing food, warm cream setting, forest green ceramic details, muted terracotta and golden tones, natural daylight, three-quarter overhead composition. A single coherent scene, NOT a collage or grid. Main dish clearly visible, room around the food for cropping. No text, logos, watermark or people. No peanuts, peanut garnish, salmon or red-fleshed fish. Show only the food described. Subject: Greek spanakopita: a rectangular spinach and feta pie with golden flaky filo crust, one square slice lifted to show the green spinach and white feta filling. A small side salad of tomato, cucumber, red onion and feta. Green patterned ceramic dish on a cream tablecloth."
+    },
+    {
+      "id": "fasolada",
+      "file": "fasolada.jpg",
+      "thumbnail": "fasolada-small.jpg",
+      "prompt": "Use case: illustration-story. Asset: one landscape 3:2 food image for a Finnish family recipe website. Style: richly textured hand-painted gouache cookbook illustration with realistic appetizing food, warm cream setting, forest green ceramic details, muted terracotta and golden tones, natural daylight, three-quarter overhead composition. A single coherent scene, NOT a collage or grid. Main dish clearly visible, room around the food for cropping. No text, logos, watermark or people. No peanuts, peanut garnish, salmon or red-fleshed fish. Show only the food described. Subject: Greek fasolada white bean soup in a deep ceramic bowl: large creamy white beans, diced carrots and celery in a tomato broth. Crusty bread and a small plate of crumbled feta beside it. No meat."
+    },
+    {
+      "id": "giouvetsi",
+      "file": "giouvetsi.jpg",
+      "thumbnail": "giouvetsi-small.jpg",
+      "prompt": "Use case: illustration-story. Asset: one landscape 3:2 food image for a Finnish family recipe website. Style: richly textured hand-painted gouache cookbook illustration with realistic appetizing food, warm cream setting, forest green ceramic details, muted terracotta and golden tones, natural daylight, three-quarter overhead composition. A single coherent scene, NOT a collage or grid. Main dish clearly visible, room around the food for cropping. No text, logos, watermark or people. No peanuts, peanut garnish, salmon or red-fleshed fish. Show only the food described. Subject: Greek beef giouvetsi in a rustic baking dish: tender browned beef chunks nestled in glossy red tomato orzo pasta, a modest scattering of grated cheese. Clearly show rice-shaped orzo, not rice or spaghetti."
+    },
+    {
+      "id": "saganaki",
+      "file": "saganaki.jpg",
+      "thumbnail": "saganaki-small.jpg",
+      "prompt": "Use case: illustration-story. Asset: one landscape 3:2 food image for a Finnish family recipe website. Style: richly textured hand-painted gouache cookbook illustration with realistic appetizing food, warm cream setting, forest green ceramic details, muted terracotta and golden tones, natural daylight, three-quarter overhead composition. A single coherent scene, NOT a collage or grid. Main dish clearly visible, room around the food for cropping. No text, logos, watermark or people. No peanuts, peanut garnish, salmon or red-fleshed fish. Show only the food described. Subject: Greek prawn saganaki: pink curled cooked prawns baked in rich red tomato sauce with crumbled white feta and chopped parsley in a shallow rustic skillet. Crusty bread and a small cucumber-tomato salad beside it."
+    },
+    {
+      "id": "moussaka",
+      "file": "moussaka.jpg",
+      "thumbnail": "moussaka-small.jpg",
+      "prompt": "Use case: illustration-story. Asset: one landscape 3:2 food image for a Finnish family recipe website. Style: richly textured hand-painted gouache cookbook illustration with realistic appetizing food, warm cream setting, forest green ceramic details, muted terracotta and golden tones, natural daylight, three-quarter overhead composition. A single coherent scene, NOT a collage or grid. Main dish clearly visible, room around the food for cropping. No text, logos, watermark or people. No peanuts, peanut garnish, salmon or red-fleshed fish. Show only the food described. Subject: Greek moussaka: a rectangular baking dish with a golden creamy bechamel top, one cut portion clearly revealing layers of sliced potato, aubergine and minced-beef tomato sauce. A separate small ramekin of the lentil-and-mushroom vegetarian version next to it. No salad needed."
+    },
+    {
+      "id": "tiropita",
+      "file": "tiropita.jpg",
+      "thumbnail": "tiropita-small.jpg",
+      "prompt": "Use case: illustration-story. Asset: one landscape 3:2 food image for a Finnish family recipe website. Style: richly textured hand-painted gouache cookbook illustration with realistic appetizing food, warm cream setting, forest green ceramic details, muted terracotta and golden tones, natural daylight, three-quarter overhead composition. A single coherent scene, NOT a collage or grid. Main dish clearly visible, room around the food for cropping. No text, logos, watermark or people. No peanuts, peanut garnish, salmon or red-fleshed fish. Show only the food described. Subject: Eight Greek tiropita triangular filo cheese pies on a cream ceramic platter. Golden paper-thin flaky pastry with one broken pie revealing white feta cheese filling. A small bowl of plain yogurt beside them. No spinach."
+    },
+    {
+      "id": "loukoumades",
+      "file": "loukoumades.jpg",
+      "thumbnail": "loukoumades-small.jpg",
+      "prompt": "Use case: illustration-story. Asset: one landscape 3:2 food image for a Finnish family recipe website. Style: richly textured hand-painted gouache cookbook illustration with realistic appetizing food, warm cream setting, forest green ceramic details, muted terracotta and golden tones, natural daylight, three-quarter overhead composition. A single coherent scene, NOT a collage or grid. Main dish clearly visible, room around the food for cropping. No text, logos, watermark or people. No peanuts, peanut garnish, salmon or red-fleshed fish. Show only the food described. Subject: Greek loukoumades: sixteen small round fried doughnuts, crisp golden spheres coated with glistening honey syrup and a dusting of cinnamon, on a patterned green ceramic plate. A tiny honey jug nearby. No nuts of any kind."
+    },
+    {
+      "id": "tikka",
+      "file": "tikka.jpg",
+      "thumbnail": "tikka-small.jpg",
+      "prompt": "Use case: illustration-story. Asset: one landscape 3:2 food image for a Finnish family recipe website. Style: richly textured hand-painted gouache cookbook illustration with realistic appetizing food, warm cream setting, forest green ceramic details, muted terracotta and golden tones, natural daylight, three-quarter overhead composition. A single coherent scene, NOT a collage or grid. Main dish clearly visible, room around the food for cropping. No text, logos, watermark or people. No peanuts, peanut garnish, salmon or red-fleshed fish. Show only the food described. Subject: Chicken tikka masala: warm orange tomato-cream curry with visible golden chicken pieces in a green ceramic bowl, a smaller separate bowl with distinct white paneer cheese cubes in the same sauce, fluffy basmati rice and naan bread at the side. No nuts."
+    },
+    {
+      "id": "cottage",
+      "file": "cottage.jpg",
+      "thumbnail": "cottage-small.jpg",
+      "prompt": "Use case: illustration-story. Asset: one landscape 3:2 food image for a Finnish family recipe website. Style: richly textured hand-painted gouache cookbook illustration with realistic appetizing food, warm cream setting, forest green ceramic details, muted terracotta and golden tones, natural daylight, three-quarter overhead composition. A single coherent scene, NOT a collage or grid. Main dish clearly visible, room around the food for cropping. No text, logos, watermark or people. No peanuts, peanut garnish, salmon or red-fleshed fish. Show only the food described. Subject: Vegetarian lentil and mushroom cottage pie in a baking dish. Golden mashed potato and cheddar topping scored with fork ridges, a serving spoon has removed one portion to reveal brown lentils, chopped mushrooms and carrots beneath. No meat, no pastry crust."
+    },
+    {
+      "id": "leek-soup",
+      "file": "leek-soup.jpg",
+      "thumbnail": "leek-soup-small.jpg",
+      "prompt": "Use case: illustration-story. Asset: one landscape 3:2 food image for a Finnish family recipe website. Style: richly textured hand-painted gouache cookbook illustration with realistic appetizing food, warm cream setting, forest green ceramic details, muted terracotta and golden tones, natural daylight, three-quarter overhead composition. A single coherent scene, NOT a collage or grid. Main dish clearly visible, room around the food for cropping. No text, logos, watermark or people. No peanuts, peanut garnish, salmon or red-fleshed fish. Show only the food described. Subject: Smooth pale creamy leek and potato soup in a green ceramic bowl. Two golden pan-toasted cheddar sandwiches cut into triangles on a plate beside it, showing molten yellow cheese. No bacon or meat garnish."
+    },
+    {
+      "id": "fish-chips",
+      "file": "fish-chips.jpg",
+      "thumbnail": "fish-chips-small.jpg",
+      "prompt": "Use case: illustration-story. Asset: one landscape 3:2 food image for a Finnish family recipe website. Style: richly textured hand-painted gouache cookbook illustration with realistic appetizing food, warm cream setting, forest green ceramic details, muted terracotta and golden tones, natural daylight, three-quarter overhead composition. A single coherent scene, NOT a collage or grid. Main dish clearly visible, room around the food for cropping. No text, logos, watermark or people. No peanuts, peanut garnish, salmon or red-fleshed fish. Show only the food described. Subject: British fish and chips: one golden crisp battered cod fillet with a broken end showing WHITE flaky fish, chunky oven chips, green mashed peas, tartare sauce in a small bowl and lemon wedges. Cream plate and green cloth, no newspaper text."
+    },
+    {
+      "id": "toad",
+      "file": "toad.jpg",
+      "thumbnail": "toad-small.jpg",
+      "prompt": "Use case: illustration-story. Asset: one landscape 3:2 food image for a Finnish family recipe website. Style: richly textured hand-painted gouache cookbook illustration with realistic appetizing food, warm cream setting, forest green ceramic details, muted terracotta and golden tones, natural daylight, three-quarter overhead composition. A single coherent scene, NOT a collage or grid. Main dish clearly visible, room around the food for cropping. No text, logos, watermark or people. No peanuts, peanut garnish, salmon or red-fleshed fish. Show only the food described. Subject: British toad in the hole: browned sausages baked in a large golden puffed Yorkshire pudding batter in a ceramic baking dish. A separate small dish with vegetarian sausages in the same batter. Small side bowls of onion gravy, peas and sliced carrots. No mashed potatoes."
+    },
+    {
+      "id": "rarebit",
+      "file": "rarebit.jpg",
+      "thumbnail": "rarebit-small.jpg",
+      "prompt": "Use case: illustration-story. Asset: one landscape 3:2 food image for a Finnish family recipe website. Style: richly textured hand-painted gouache cookbook illustration with realistic appetizing food, warm cream setting, forest green ceramic details, muted terracotta and golden tones, natural daylight, three-quarter overhead composition. A single coherent scene, NOT a collage or grid. Main dish clearly visible, room around the food for cropping. No text, logos, watermark or people. No peanuts, peanut garnish, salmon or red-fleshed fish. Show only the food described. Subject: Welsh rarebit: thick toasted bread slices topped with bubbling golden mustard cheddar cheese, served with a small bowl of smooth red tomato soup and a simple green leaf salad. No meat."
+    },
+    {
+      "id": "cauliflower",
+      "file": "cauliflower.jpg",
+      "thumbnail": "cauliflower-small.jpg",
+      "prompt": "Use case: illustration-story. Asset: one landscape 3:2 food image for a Finnish family recipe website. Style: richly textured hand-painted gouache cookbook illustration with realistic appetizing food, warm cream setting, forest green ceramic details, muted terracotta and golden tones, natural daylight, three-quarter overhead composition. A single coherent scene, NOT a collage or grid. Main dish clearly visible, room around the food for cropping. No text, logos, watermark or people. No peanuts, peanut garnish, salmon or red-fleshed fish. Show only the food described. Subject: Vegetarian Sunday meal for three: golden cauliflower cheese gratin in a baking dish with visible cauliflower florets under creamy cheddar sauce, accompanied by roast potatoes, small hollow Yorkshire puddings, peas, carrots and a gravy jug. NO meat at all."
+    },
+    {
+      "id": "full-english",
+      "file": "full-english.jpg",
+      "thumbnail": "full-english-small.jpg",
+      "prompt": "Use case: illustration-story. Asset: one landscape 3:2 food image for a Finnish family recipe website. Style: richly textured hand-painted gouache cookbook illustration with realistic appetizing food, warm cream setting, forest green ceramic details, muted terracotta and golden tones, natural daylight, three-quarter overhead composition. A single coherent scene, NOT a collage or grid. Main dish clearly visible, room around the food for cropping. No text, logos, watermark or people. No peanuts, peanut garnish, salmon or red-fleshed fish. Show only the food described. Subject: English cooked breakfast: fried egg, browned pork sausages, bacon strips, baked beans in tomato sauce, mushrooms, roasted tomato halves and buttered toast on a ceramic plate. A small separate plate with vegetarian sausages nearby."
+    },
+    {
+      "id": "toffee",
+      "file": "toffee.jpg",
+      "thumbnail": "toffee-small.jpg",
+      "prompt": "Use case: illustration-story. Asset: one landscape 3:2 food image for a Finnish family recipe website. Style: richly textured hand-painted gouache cookbook illustration with realistic appetizing food, warm cream setting, forest green ceramic details, muted terracotta and golden tones, natural daylight, three-quarter overhead composition. A single coherent scene, NOT a collage or grid. Main dish clearly visible, room around the food for cropping. No text, logos, watermark or people. No peanuts, peanut garnish, salmon or red-fleshed fish. Show only the food described. Subject: Sticky toffee pudding: one small dark date sponge square, generous glossy brown toffee sauce flowing down the sides, and a scoop of vanilla ice cream melting slightly beside it on a cream dessert plate. No nuts or fruit garnish."
+    },
+    {
+      "id": "crumpets",
+      "file": "crumpets.jpg",
+      "thumbnail": "crumpets-small.jpg",
+      "prompt": "Use case: illustration-story. Asset: one landscape 3:2 food image for a Finnish family recipe website. Style: richly textured hand-painted gouache cookbook illustration with realistic appetizing food, warm cream setting, forest green ceramic details, muted terracotta and golden tones, natural daylight, three-quarter overhead composition. A single coherent scene, NOT a collage or grid. Main dish clearly visible, room around the food for cropping. No text, logos, watermark or people. No peanuts, peanut garnish, salmon or red-fleshed fish. Show only the food described. Subject: Homemade British crumpets: six round thick griddle breads with characteristic small holes on the TOP surface, golden toasted edges, melting butter and a small bowl of red jam. Two stacked and the others on a plate. Not American pancakes, not flat muffins."
+    },
+    {
+      "id": "crumble",
+      "file": "crumble.jpg",
+      "thumbnail": "crumble-small.jpg",
+      "prompt": "Use case: illustration-story. Asset: one landscape 3:2 food image for a Finnish family recipe website. Style: richly textured hand-painted gouache cookbook illustration with realistic appetizing food, warm cream setting, forest green ceramic details, muted terracotta and golden tones, natural daylight, three-quarter overhead composition. A single coherent scene, NOT a collage or grid. Main dish clearly visible, room around the food for cropping. No text, logos, watermark or people. No peanuts, peanut garnish, salmon or red-fleshed fish. Show only the food described. Subject: Apple crumble: rustic baking dish with a golden uneven butter-flour crumb topping, a spooned-out portion reveals soft apple slices and cinnamon underneath. Small jug of pale yellow vanilla custard next to it. No oats, no nuts."
+    },
+    {
+      "id": "tomato-egg",
+      "file": "tomato-egg.jpg",
+      "thumbnail": "tomato-egg-small.jpg",
+      "prompt": "Use case: illustration-story. Asset: one landscape 3:2 food image for a Finnish family recipe website. Style: richly textured hand-painted gouache cookbook illustration with realistic appetizing food, warm cream setting, forest green ceramic details, muted terracotta and golden tones, natural daylight, three-quarter overhead composition. A single coherent scene, NOT a collage or grid. Main dish clearly visible, room around the food for cropping. No text, logos, watermark or people. No peanuts, peanut garnish, salmon or red-fleshed fish. Show only the food described. Subject: Chinese tomato and egg stir-fry: soft bright yellow scrambled eggs folded through juicy red tomato wedges, chopped green spring onion, in a shallow bowl with separate jasmine rice and a small cucumber salad. No meat."
+    },
+    {
+      "id": "mapo",
+      "file": "mapo.jpg",
+      "thumbnail": "mapo-small.jpg",
+      "prompt": "Use case: illustration-story. Asset: one landscape 3:2 food image for a Finnish family recipe website. Style: richly textured hand-painted gouache cookbook illustration with realistic appetizing food, warm cream setting, forest green ceramic details, muted terracotta and golden tones, natural daylight, three-quarter overhead composition. A single coherent scene, NOT a collage or grid. Main dish clearly visible, room around the food for cropping. No text, logos, watermark or people. No peanuts, peanut garnish, salmon or red-fleshed fish. Show only the food described. Subject: Mild mushroom mapo-style tofu: delicate pale tofu cubes and finely chopped browned mushrooms in a glossy reddish-brown savoury sauce, garnished with green spring onion. Jasmine rice and garlicky pak choi on the side. No minced meat, no peanuts, no whole chilli garnish."
+    },
+    {
+      "id": "hot-pot",
+      "file": "hot-pot.jpg",
+      "thumbnail": "hot-pot-small.jpg",
+      "prompt": "Use case: illustration-story. Asset: one landscape 3:2 food image for a Finnish family recipe website. Style: richly textured hand-painted gouache cookbook illustration with realistic appetizing food, warm cream setting, forest green ceramic details, muted terracotta and golden tones, natural daylight, three-quarter overhead composition. A single coherent scene, NOT a collage or grid. Main dish clearly visible, room around the food for cropping. No text, logos, watermark or people. No peanuts, peanut garnish, salmon or red-fleshed fish. Show only the food described. Subject: Family Chinese hot pot: one large gently steaming pot of clear vegetable-and-mushroom broth surrounded by neatly arranged pak choi, Chinese cabbage, thin carrot slices, mushrooms, tofu cubes and bowls of noodles. A SMALL SEPARATE second pot for beef, and a separate plate of thinly sliced beef. Soy dipping bowls and chopsticks. No peanut sauces or salmon."
+    },
+    {
+      "id": "congee",
+      "file": "congee.jpg",
+      "thumbnail": "congee-small.jpg",
+      "prompt": "Use case: illustration-story. Asset: one landscape 3:2 food image for a Finnish family recipe website. Style: richly textured hand-painted gouache cookbook illustration with realistic appetizing food, warm cream setting, forest green ceramic details, muted terracotta and golden tones, natural daylight, three-quarter overhead composition. A single coherent scene, NOT a collage or grid. Main dish clearly visible, room around the food for cropping. No text, logos, watermark or people. No peanuts, peanut garnish, salmon or red-fleshed fish. Show only the food described. Subject: Chinese breakfast congee: a bowl of thick white rice porridge topped with halved hard-boiled eggs, sliced green spring onion, and crispy golden fried onion strips. Tiny soy-sesame sauce bowl nearby. No meat."
+    },
+    {
+      "id": "mango-pudding",
+      "file": "mango-pudding.jpg",
+      "thumbnail": "mango-pudding-small.jpg",
+      "prompt": "Use case: illustration-story. Asset: one landscape 3:2 food image for a Finnish family recipe website. Style: richly textured hand-painted gouache cookbook illustration with realistic appetizing food, warm cream setting, forest green ceramic details, muted terracotta and golden tones, natural daylight, three-quarter overhead composition. A single coherent scene, NOT a collage or grid. Main dish clearly visible, room around the food for cropping. No text, logos, watermark or people. No peanuts, peanut garnish, salmon or red-fleshed fish. Show only the food described. Subject: Four small clear dessert glasses filled with smooth sunny yellow mango and coconut pudding. Simple unadorned surfaces showing the pale yellow set texture, arranged on cream linen with a few mango pieces beside them. No mint, nuts or other toppings."
+    },
+    {
+      "id": "scallion-pancakes",
+      "file": "scallion-pancakes.jpg",
+      "thumbnail": "scallion-pancakes-small.jpg",
+      "prompt": "Use case: illustration-story. Asset: one landscape 3:2 food image for a Finnish family recipe website. Style: richly textured hand-painted gouache cookbook illustration with realistic appetizing food, warm cream setting, forest green ceramic details, muted terracotta and golden tones, natural daylight, three-quarter overhead composition. A single coherent scene, NOT a collage or grid. Main dish clearly visible, room around the food for cropping. No text, logos, watermark or people. No peanuts, peanut garnish, salmon or red-fleshed fish. Show only the food described. Subject: Chinese scallion pancakes: golden flaky pan-fried savoury flatbreads with visible chopped green spring onions, cut into triangular wedges with one torn edge showing thin layers. Soy-vinegar dipping sauce in a small ceramic bowl. No eggs or meat toppings."
+    },
+    {
+      "id": "sesame-biscuits",
+      "file": "sesame-biscuits.jpg",
+      "thumbnail": "sesame-biscuits-small.jpg",
+      "prompt": "Use case: illustration-story. Asset: one landscape 3:2 food image for a Finnish family recipe website. Style: richly textured hand-painted gouache cookbook illustration with realistic appetizing food, warm cream setting, forest green ceramic details, muted terracotta and golden tones, natural daylight, three-quarter overhead composition. A single coherent scene, NOT a collage or grid. Main dish clearly visible, room around the food for cropping. No text, logos, watermark or people. No peanuts, peanut garnish, salmon or red-fleshed fish. Show only the food described. Subject: Twelve small golden sesame biscuits dotted with ivory sesame seeds, on a ceramic plate alongside a small bowl of vanilla ice cream. Crisp buttery baked cookies, not sesame balls. No peanuts or any nuts."
+    },
+    {
+      "id": "char-siu",
+      "file": "char-siu.jpg",
+      "thumbnail": "char-siu-small.jpg",
+      "prompt": "Use case: illustration-story. Asset: one landscape 3:2 food image for a Finnish family recipe website. Style: richly textured hand-painted gouache cookbook illustration with realistic appetizing food, warm cream setting, forest green ceramic details, muted terracotta and golden tones, natural daylight, three-quarter overhead composition. A single coherent scene, NOT a collage or grid. Main dish clearly visible, room around the food for cropping. No text, logos, watermark or people. No peanuts, peanut garnish, salmon or red-fleshed fish. Show only the food described. Subject: Char siu-style roasted pork: slices of caramelized golden mahogany glazed pork, natural meat colour not artificial bright pink. Separate small plate of glazed tofu slabs, jasmine rice and green pak choi. No peanuts."
+    },
+    {
+      "id": "chow-mein",
+      "file": "chow-mein.jpg",
+      "thumbnail": "chow-mein-small.jpg",
+      "prompt": "Use case: illustration-story. Asset: one landscape 3:2 food image for a Finnish family recipe website. Style: richly textured hand-painted gouache cookbook illustration with realistic appetizing food, warm cream setting, forest green ceramic details, muted terracotta and golden tones, natural daylight, three-quarter overhead composition. A single coherent scene, NOT a collage or grid. Main dish clearly visible, room around the food for cropping. No text, logos, watermark or people. No peanuts, peanut garnish, salmon or red-fleshed fish. Show only the food described. Subject: Chicken and vegetable chow mein: golden wheat noodles tangled with strips of cooked chicken, carrot, cabbage, red bell pepper and spring onion. A smaller separate bowl of the same noodles with golden tofu cubes instead of chicken. No peanuts."
+    },
+    {
+      "id": "jiaozi",
+      "file": "jiaozi.jpg",
+      "thumbnail": "jiaozi-small.jpg",
+      "prompt": "Use case: illustration-story. Asset: one landscape 3:2 food image for a Finnish family recipe website. Style: richly textured hand-painted gouache cookbook illustration with realistic appetizing food, warm cream setting, forest green ceramic details, muted terracotta and golden tones, natural daylight, three-quarter overhead composition. A single coherent scene, NOT a collage or grid. Main dish clearly visible, room around the food for cropping. No text, logos, watermark or people. No peanuts, peanut garnish, salmon or red-fleshed fish. Show only the food described. Subject: Chinese jiaozi dumplings: crescent dumplings with hand-pleated seams and golden crisp bases on a cream platter, a smaller separate platter of differently folded mushroom dumplings. One cut dumpling reveals pork and cabbage, another mushrooms and cabbage. Soy-vinegar dipping sauce and smashed cucumber salad."
+    },
+    {
+      "id": "gong-bao",
+      "file": "gong-bao.jpg",
+      "thumbnail": "gong-bao-small.jpg",
+      "prompt": "Use case: illustration-story. Asset: one landscape 3:2 food image for a Finnish family recipe website. Style: richly textured hand-painted gouache cookbook illustration with realistic appetizing food, warm cream setting, forest green ceramic details, muted terracotta and golden tones, natural daylight, three-quarter overhead composition. A single coherent scene, NOT a collage or grid. Main dish clearly visible, room around the food for cropping. No text, logos, watermark or people. No peanuts, peanut garnish, salmon or red-fleshed fish. Show only the food described. Subject: Peanut-free gong bao-style chicken: glossy browned chicken cubes stir-fried with red bell pepper, carrot and spring onion in a tangy brown sauce. Smaller separate bowl with tofu cubes and the same vegetables, jasmine rice at the side. Absolutely no peanuts or any nuts; no cashews."
+    }
+  ]
+}

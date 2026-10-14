@@ -80,24 +80,12 @@
     text-transform: uppercase;
     color: var(--accent);
   }
-  .tagline {
-    margin: 14px 0 0;
-    font-family: "Helvetica Neue", Arial, sans-serif;
-    font-size: clamp(.9rem, 2.6vw, 1.1rem);
-    font-weight: 700;
-    min-height: 1.4em;
-  }
-  .beer { display: inline-block; animation: wobble 2.4s ease-in-out infinite; }
   @keyframes pop {
     0% { transform: scale(1.35); color: var(--accent); }
     100% { transform: scale(1); }
   }
-  @keyframes wobble {
-    0%, 100% { transform: rotate(-12deg); }
-    50% { transform: rotate(12deg); }
-  }
   @media (prefers-reduced-motion: reduce) {
-    .num.pop, .beer { animation: none; }
+    .num.pop { animation: none; }
   }
 </style>
 </head>
@@ -110,20 +98,11 @@
       <div class="unit"><span class="num" id="h">–</span><span class="label">tuntia</span></div>
       <div class="unit"><span class="num" id="m">–</span><span class="label">minuuttia</span></div>
     </div>
-    <p class="tagline"><span class="beer">🍺</span> <span id="tagline">Pelastusliivit valmiiksi.</span> <span class="beer">🍺</span></p>
   </main>
 <script>
   // Departure: midnight Helsinki time (EEST, UTC+3).
   const TARGET = new Date("2027-09-17T00:00:00+03:00").getTime();
-  const TAGLINES = [
-    "Pelastusliivit valmiiksi.",
-    "Maksa aloittaa harjoittelun.",
-    "Passi on jo pöydällä, eikö?",
-    "Kansainvälisiä vesiä kohti.",
-    "Tänään on hyvä päivä venytellä hyppyä varten.",
-  ];
   const els = { d: document.getElementById("d"), h: document.getElementById("h"), m: document.getElementById("m") };
-  const tagline = document.getElementById("tagline");
 
   function set(el, value) {
     const text = String(value);
@@ -140,7 +119,6 @@
     const left = TARGET - Date.now();
     if (left <= 0) {
       set(els.d, 0); set(els.h, 0); set(els.m, 0);
-      tagline.textContent = "NYT MENNÄÄN! SKÅL!";
       return;
     }
     const mins = Math.floor(left / 60000);
@@ -150,7 +128,6 @@
     setTimeout(tick, 1000);
   }
 
-  tagline.textContent = TAGLINES[Math.floor(Date.now() / 86400000) % TAGLINES.length];
   tick();
 </script>
 </body>

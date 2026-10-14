@@ -1,0 +1,158 @@
+<!doctype html>
+<html lang="fi">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>PPSR2027</title>
+<meta name="description" content="PPSR2027 – laskuri lähtöön 17.9.2027.">
+<style>
+  :root {
+    --ink: #fff;
+    --panel: rgba(8, 28, 54, .62);
+    --accent: #ffd23f;
+    --red: #e63946;
+  }
+  * { box-sizing: border-box; }
+  html, body { height: 100%; margin: 0; }
+  body {
+    background: #0b2a4a url("tausta.jpg") 72% center / cover no-repeat;
+    color: var(--ink);
+    font-family: "Arial Black", "Helvetica Neue", Arial, sans-serif;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items: center;
+    min-height: 100vh;
+    min-height: 100dvh;
+    padding: 16px 16px 6vh;
+    overflow-x: hidden;
+  }
+  .card {
+    background: var(--panel);
+    backdrop-filter: blur(6px);
+    -webkit-backdrop-filter: blur(6px);
+    border: 3px solid var(--accent);
+    border-radius: 22px;
+    padding: 18px clamp(12px, 3vw, 26px) 22px;
+    text-align: center;
+    box-shadow: 0 12px 40px rgba(0, 0, 0, .35);
+    transform: rotate(-1.5deg);
+    max-width: 100%;
+  }
+  h1 {
+    margin: 0 0 4px;
+    font-size: clamp(2.2rem, 8vw, 4.5rem);
+    letter-spacing: .04em;
+    line-height: 1;
+    color: var(--accent);
+    text-shadow: 3px 3px 0 var(--red), 6px 6px 0 rgba(0, 0, 0, .3);
+  }
+  .sub {
+    margin: 0 0 14px;
+    font-family: "Helvetica Neue", Arial, sans-serif;
+    font-weight: 700;
+    font-size: clamp(.85rem, 2.6vw, 1.1rem);
+    letter-spacing: .12em;
+    text-transform: uppercase;
+    opacity: .9;
+  }
+  .timer { display: flex; gap: clamp(8px, 2.5vw, 18px); justify-content: center; }
+  .unit {
+    background: rgba(255, 255, 255, .1);
+    border-radius: 14px;
+    padding: 10px clamp(6px, 2vw, 18px) 8px;
+    min-width: clamp(70px, 20vw, 150px);
+  }
+  .num {
+    display: block;
+    font-size: clamp(1.9rem, 8.5vw, 4.6rem);
+    line-height: 1;
+    font-variant-numeric: tabular-nums;
+  }
+  .num.pop { animation: pop .45s ease-out; }
+  .label {
+    display: block;
+    margin-top: 6px;
+    font-family: "Helvetica Neue", Arial, sans-serif;
+    font-weight: 700;
+    font-size: clamp(.62rem, 2.2vw, .95rem);
+    letter-spacing: .06em;
+    text-transform: uppercase;
+    color: var(--accent);
+  }
+  .tagline {
+    margin: 14px 0 0;
+    font-family: "Helvetica Neue", Arial, sans-serif;
+    font-size: clamp(.9rem, 2.6vw, 1.1rem);
+    font-weight: 700;
+    min-height: 1.4em;
+  }
+  .beer { display: inline-block; animation: wobble 2.4s ease-in-out infinite; }
+  @keyframes pop {
+    0% { transform: scale(1.35); color: var(--accent); }
+    100% { transform: scale(1); }
+  }
+  @keyframes wobble {
+    0%, 100% { transform: rotate(-12deg); }
+    50% { transform: rotate(12deg); }
+  }
+  @media (prefers-reduced-motion: reduce) {
+    .num.pop, .beer { animation: none; }
+  }
+</style>
+</head>
+<body>
+  <main class="card">
+    <h1>PPSR2027</h1>
+    <p class="sub">Lähtö 17.9.2027</p>
+    <div class="timer" id="timer" aria-live="polite">
+      <div class="unit"><span class="num" id="d">–</span><span class="label">päivää</span></div>
+      <div class="unit"><span class="num" id="h">–</span><span class="label">tuntia</span></div>
+      <div class="unit"><span class="num" id="m">–</span><span class="label">minuuttia</span></div>
+    </div>
+    <p class="tagline"><span class="beer">🍺</span> <span id="tagline">Pelastusliivit valmiiksi.</span> <span class="beer">🍺</span></p>
+  </main>
+<script>
+  // Departure: midnight Helsinki time (EEST, UTC+3).
+  const TARGET = new Date("2027-09-17T00:00:00+03:00").getTime();
+  const TAGLINES = [
+    "Pelastusliivit valmiiksi.",
+    "Maksa aloittaa harjoittelun.",
+    "Passi on jo pöydällä, eikö?",
+    "Kansainvälisiä vesiä kohti.",
+    "Lasit nousee kohta.",
+    "Tänään on hyvä päivä venytellä hyppyä varten.",
+  ];
+  const els = { d: document.getElementById("d"), h: document.getElementById("h"), m: document.getElementById("m") };
+  const tagline = document.getElementById("tagline");
+
+  function set(el, value) {
+    const text = String(value);
+    if (el.textContent === text) return;
+    const first = el.textContent === "–";
+    el.textContent = text;
+    if (first) return;
+    el.classList.remove("pop");
+    void el.offsetWidth;
+    el.classList.add("pop");
+  }
+
+  function tick() {
+    const left = TARGET - Date.now();
+    if (left <= 0) {
+      set(els.d, 0); set(els.h, 0); set(els.m, 0);
+      tagline.textContent = "NYT MENNÄÄN! SKÅL!";
+      return;
+    }
+    const mins = Math.floor(left / 60000);
+    set(els.d, Math.floor(mins / 1440));
+    set(els.h, String(Math.floor(mins / 60) % 24).padStart(2, "0"));
+    set(els.m, String(mins % 60).padStart(2, "0"));
+    setTimeout(tick, 1000);
+  }
+
+  tagline.textContent = TAGLINES[Math.floor(Date.now() / 86400000) % TAGLINES.length];
+  tick();
+</script>
+</body>
+</html>
